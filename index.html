@@ -10,10 +10,6 @@
   <p>going to add more ebooks tomorrow</p>
 
   <div>
-  <input type="text" id="search" placeholder="Search by title or author">
-</div>
-
-  <div>
   <button id="sort-title">Sort by Title</button>
   <button id="sort-author">Sort by Author</button>
 </div>
@@ -51,15 +47,6 @@ document.getElementById("sort-title").addEventListener("click", () => {
 document.getElementById("sort-author").addEventListener("click", () => {
   booksData.sort((a, b) => a.author.localeCompare(b.author));
   renderBooks();
-
- searchInput.addEventListener("input", () => {
-    const query = searchInput.value.toLowerCase();
-    filteredData = booksData.filter(book =>
-      book.title.toLowerCase().includes(query) ||
-      book.author.toLowerCase().includes(query)
-    );
-    renderBooks(filteredData);
-  });
 });
 </script>
 </body>
