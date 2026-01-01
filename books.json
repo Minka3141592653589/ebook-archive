@@ -1,34 +1,990 @@
 [
   {
     "author": "Jules Verne",
-    "title": "Reise um die Erde in 80 Tagen",
-    "slug": "reise-um-die-erde-in-80-tagen",
-    "basePath": "ebooks/jules-verne",
+    "title": "Abenteuer des Kapitän Hatteras - Erster Band",
+    "slug": "abenteuer-des-kapitaen-hatteras-erster-band",
+    "basePath": "ebooks/verne/hattera1",
     "lang": "de",
-    "formats": ["epub"]
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Abenteuer des Kapitän Hatteras - Zweiter Band",
+    "slug": "abenteuer-des-kapitaen-hatteras-zweiter-band",
+    "basePath": "ebooks/verne/hattera2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Abenteuer von drei Russen und drei Engländern in Süd-Afrika",
+    "slug": "abenteuer-von-drei-russen-und-drei-englaendern-in-sued-afrika",
+    "basePath": "ebooks/verne/3russen",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Alles in Ordnung",
+    "slug": "alles-in-ordnung",
+    "basePath": "ebooks/verne/ordnung",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Archipel in Flammen",
+    "slug": "der-archipel-in-flammen",
+    "basePath": "ebooks/verne/archipel",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Dampfhaus - 1. Band",
+    "slug": "das-dampfhaus-1-band",
+    "basePath": "ebooks/verne/dampfha1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Dampfhaus - 2. Band",
+    "slug": "das-dampfhaus-2-band",
+    "basePath": "ebooks/verne/dampfha2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Land der Pelze - 1. Band",
+    "slug": "das-land-der-pelze-1-band",
+    "basePath": "ebooks/verne/dasland1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Land der Pelze - 2. Band",
+    "slug": "das-land-der-pelze-2-band",
+    "basePath": "ebooks/verne/dasland2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Karpathenschloß",
+    "slug": "das-karpathenschloss",
+    "basePath": "ebooks/verne/karpathe",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Testament eines Excentrischen. Erster Band",
+    "slug": "das-testament-eines-excentrischen-erster-band",
+    "basePath": "ebooks/verne/excentr1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Testament eines Excentrischen. Zweiter Band",
+    "slug": "das-testament-eines-excentrischen-zweiter-band",
+    "basePath": "ebooks/verne/excentr2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Courier des Czaar - Erster Band",
+    "slug": "der-courier-des-czaar-erster-band",
+    "basePath": "ebooks/verne/courier1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Courier des Czaar - Zweiter Band",
+    "slug": "der-courier-des-czaar-zweiter-band",
+    "basePath": "ebooks/verne/courier2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Chancellor",
+    "slug": "der-chancellor",
+    "basePath": "ebooks/verne/chancell",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Einbruch des Meeres",
+    "slug": "der-einbruch-des-meeres",
+    "basePath": "ebooks/verne/einbruch",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der grüne Strahl",
+    "slug": "der-gruene-strahl",
+    "basePath": "ebooks/verne/gruestra",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Leuchtturm am Ende der Welt",
+    "slug": "der-leuchtturm-am-ende-der-welt",
+    "basePath": "ebooks/verne/leuchttu",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Südstern",
+    "slug": "der-suedstern",
+    "basePath": "ebooks/verne/suedster",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Triumph des 19. Jahrhunderts. Erster Band.",
+    "slug": "der-triumph-des-19-jahrhunderts-erster-band",
+    "basePath": "ebooks/verne/19jahr-1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Triumph des 19. Jahrhunderts. Zweiter Band.",
+    "slug": "der-triumph-des-19-jahrhunderts-zweiter-band",
+    "basePath": "ebooks/verne/19jahr-2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die 500 Millionen der Begum",
+    "slug": "die-500-millionen-der-begum",
+    "basePath": "ebooks/verne/begum",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Drangsale eines Chinesen in China",
+    "slug": "die-drangsale-eines-chinesen-in-china",
+    "basePath": "ebooks/verne/chinese",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Entdeckung der Erde. Erster Band",
+    "slug": "die-entdeckung-der-erde-erster-band",
+    "basePath": "ebooks/verne/enterde1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Entdeckung der Erde. Zweiter Band",
+    "slug": "die-entdeckung-der-erde-zweiter-band",
+    "basePath": "ebooks/verne/enterde2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Leiden eines Chinesen in China",
+    "slug": "die-leiden-eines-chinesen-in-china",
+    "basePath": "ebooks/verne/chinese1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Eissphinx. Erster Band",
+    "slug": "die-eissphinx-erster-band",
+    "basePath": "ebooks/verne/eisspin1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Eissphinx. Zweiter Band",
+    "slug": "die-eissphinx-zweiter-band",
+    "basePath": "ebooks/verne/eisspin2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die geheimnißvolle Insel. Erster Theil. Die Schiffbrüchigen des Luftmeers",
+    "slug": "die-geheimnissvolle-insel-erster-theil-die-schiffbruechigen-des-luftmeers",
+    "basePath": "ebooks/verne/insel",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die geheimnißvolle Insel. Zweiter Theil. Der Verlassene",
+    "slug": "die-geheimnissvolle-insel-zweiter-theil-der-verlassene",
+    "basePath": "ebooks/verne/insel2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die geheimnißvolle Insel. Dritter Theil. Das Geheimniß",
+    "slug": "die-geheimnissvolle-insel-dritter-theil-das-geheimniss",
+    "basePath": "ebooks/verne/insel3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die großen Seefahrer des 18. Jahrhunderts - 1. Band",
+    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-1-band",
+    "basePath": "ebooks/verne/seefahr",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die großen Seefahrer des 18. Jahrhunderts - 2. Band",
+    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-2-band",
+    "basePath": "ebooks/verne/seefahr2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Jangada. Zweiter Band",
+    "slug": "die-jangada-zweiter-band",
+    "basePath": "ebooks/verne/jangada2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Jangada. Erster Band",
+    "slug": "die-jangada-erster-band",
+    "basePath": "ebooks/verne/jangada1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Jagd nach dem Meteore",
+    "slug": "die-jagd-nach-dem-meteore",
+    "basePath": "ebooks/verne/meteor",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Kinder des Kapitän Grant, Band 1",
+    "slug": "die-kinder-des-kapitaen-grant-band-1",
+    "basePath": "ebooks/verne/grant1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Kinder des Kapitän Grant, Band 3",
+    "slug": "die-kinder-des-kapitaen-grant-band-3",
+    "basePath": "ebooks/verne/grant3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Kinder des Kapitän Grant, Band 2",
+    "slug": "die-kinder-des-kapitaen-grant-band-2",
+    "basePath": "ebooks/verne/grant2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Meuterer von der »Bounty«",
+    "slug": "die-meuterer-von-der-bounty",
+    "basePath": "ebooks/verne/bounty",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schiffbrüchigen des »Jonathan«. Erster Band",
+    "slug": "die-schiffbruechigen-des-jonathan-erster-band",
+    "basePath": "ebooks/verne/jonatha1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schiffbrüchigen des »Jonathan«. Dritter Band",
+    "slug": "die-schiffbruechigen-des-jonathan-dritter-band",
+    "basePath": "ebooks/verne/jonatha3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schiffbrüchigen des »Jonathan«. Zweiter Band",
+    "slug": "die-schiffbruechigen-des-jonathan-zweiter-band",
+    "basePath": "ebooks/verne/jonatha2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Ein Drama in den Lüften",
+    "slug": "ein-drama-in-den-lueften",
+    "basePath": "ebooks/verne/dramluef",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Ein Drama in Mexico",
+    "slug": "ein-drama-in-mexico",
+    "basePath": "ebooks/verne/drammexi",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schule der Robinsons",
+    "slug": "die-schule-der-robinsons",
+    "basePath": "ebooks/verne/robinson",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
   },
   {
     "author": "Jules Verne",
     "title": "Reise nach dem Mittelpunkt der Erde",
     "slug": "reise-nach-dem-mittelpunkt-der-erde",
-    "basePath": "ebooks/jules-verne",
+    "basePath": "ebooks/verne/mittelpu",
     "lang": "de",
-    "formats": ["epub"]
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
   },
   {
     "author": "Jules Verne",
-    "title": "Reisen und Abenteuer des Kapitän Hatteras - Erster Band",
-    "slug": "abenteuer-des-kapitaen-hatteras-erster-band",
-    "basePath": "ebooks/jules-verne",
+    "title": "Eine Idee des Doctor Ox",
+    "slug": "eine-idee-des-doctor-ox",
+    "basePath": "ebooks/verne/doctorox",
     "lang": "de",
-    "formats": ["epub"]
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
   },
   {
     "author": "Jules Verne",
-    "title": "Reisen und Abenteuer des Kapitän Hatteras - Zweiter Band",
-    "slug": "abenteuer-des-kapitaen-hatteras-zweiter-band",
-    "basePath": "ebooks/jules-verne",
+    "title": "Ein Lotterie-Los",
+    "slug": "ein-lotterie-los",
+    "basePath": "ebooks/verne/lotterie",
     "lang": "de",
-    "formats": ["epub"]
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Eine Überwinterung im Eise",
+    "slug": "eine-ueberwinterung-im-eise",
+    "basePath": "ebooks/verne/ueberwin",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Eine schwimmende Stadt. Die Blockadebrecher",
+    "slug": "eine-schwimmende-stadt-die-blockadebrecher",
+    "basePath": "ebooks/verne/schwstad",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Herr der Welt",
+    "slug": "herr-der-welt",
+    "basePath": "ebooks/verne/herrwelt",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Fünf Wochen im Ballon",
+    "slug": "fuenf-wochen-im-ballon",
+    "basePath": "ebooks/verne/ballon",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Kein Durcheinander",
+    "slug": "kein-durcheinander",
+    "basePath": "ebooks/verne/durchein",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Keraban der Starrkopf. Erster Band",
+    "slug": "keraban-der-starrkopf-erster-band",
+    "basePath": "ebooks/verne/keraban1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Keraban der Starrkopf. Zweiter Band",
+    "slug": "keraban-der-starrkopf-zweiter-band",
+    "basePath": "ebooks/verne/keraban2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mathias Sandorf. Erster Band",
+    "slug": "mathias-sandorf-erster-band",
+    "basePath": "ebooks/verne/sandorf1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mathias Sandorf. Dritter Band",
+    "slug": "mathias-sandorf-dritter-band",
+    "basePath": "ebooks/verne/sandorf3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mathias Sandorf. Zweiter Band",
+    "slug": "mathias-sandorf-zweiter-band",
+    "basePath": "ebooks/verne/sandorf2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Martin Paz",
+    "slug": "martin-paz",
+    "basePath": "ebooks/verne/martinpa",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Meister Zacharius",
+    "slug": "meister-zacharius",
+    "basePath": "ebooks/verne/zachariu",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Meister Antifer's wunderbare Abenteuer. Erster Band",
+    "slug": "meister-antifer-s-wunderbare-abenteuer-erster-band",
+    "basePath": "ebooks/verne/antifer1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Meister Antifer's wunderbare Abenteuer. Zweiter Band",
+    "slug": "meister-antifer-s-wunderbare-abenteuer-zweiter-band",
+    "basePath": "ebooks/verne/antifer2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mistreß Branican. Erster Theil",
+    "slug": "mistress-branican-erster-theil",
+    "basePath": "ebooks/verne/mistres1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Nord gegen Süd. Erster Band",
+    "slug": "nord-gegen-sued-erster-band",
+    "basePath": "ebooks/verne/nordsue1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mistreß Branican. Zweiter Theil",
+    "slug": "mistress-branican-zweiter-theil",
+    "basePath": "ebooks/verne/mistres2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Nord gegen Süd. Zweiter Band",
+    "slug": "nord-gegen-sued-zweiter-band",
+    "basePath": "ebooks/verne/nordsue2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise durch die Sonnenwelt, Band 1",
+    "slug": "reise-durch-die-sonnenwelt-band-1",
+    "basePath": "ebooks/verne/sonnenw1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise um den Mond",
+    "slug": "reise-um-den-mond",
+    "basePath": "ebooks/verne/ummond",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise durch die Sonnenwelt, Band 2",
+    "slug": "reise-durch-die-sonnenwelt-band-2",
+    "basePath": "ebooks/verne/sonnenw2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise um die Erde in 80 Tagen",
+    "slug": "reise-um-die-erde-in-80-tagen",
+    "basePath": "ebooks/verne/80tage",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Robur der Sieger",
+    "slug": "robur-der-sieger",
+    "basePath": "ebooks/verne/robur",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Von der Erde zum Mond",
+    "slug": "von-der-erde-zum-mond",
+    "basePath": "ebooks/verne/erdemond",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Schwarz-Indien",
+    "slug": "schwarz-indien",
+    "basePath": "ebooks/verne/schwindi",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Vingt mille Lieues sous les mers",
+    "slug": "vingt-mille-lieues-sous-les-mers",
+    "basePath": "ebooks/verne/vingtmil",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Zwanzigtausend Meilen unter'm Meer - Erster Band",
+    "slug": "zwanzigtausend-meilen-unter-m-meer-erster-band",
+    "basePath": "ebooks/verne/zwanzig1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf"
+    ]
   }
 ]
