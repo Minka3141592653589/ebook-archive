@@ -12,16 +12,19 @@
   <ul id="book-list"></ul>
 
   <script>
-    fetch("books.json")
-      .then(r => r.json())
-      .then(books => {
-        const list = document.getElementById("book-list");
-        for (const book of books) {
-          const li = document.createElement("li");
-          li.textContent = `${book.author} – ${book.title}`;
-          list.appendChild(li);
-        }
-      });
+  fetch("books.json")
+    .then(r => r.json())
+    .then(books => {
+      const list = document.getElementById("book-list");
+      for (const book of books) {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `book.html?book=${book.slug}`;
+        a.textContent = `${book.author} – ${book.title}`;
+        li.appendChild(a);
+        list.appendChild(li);
+      }
+    });
   </script>
 </body>
 </html>
