@@ -1,2 +1,2 @@
 # ebook-archive
-in progress(no books yet)
+gonna fix the epubs tommorow
