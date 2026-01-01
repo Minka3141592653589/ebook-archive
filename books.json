@@ -1,8 +1,8 @@
 [
   {
-    "author": "Placeholder",
-    "title": "Placeholder",
-    "slug": "placeholder",
-    "formats": ["placeholder"]
+    "author": "Placeholder Author",
+    "title": "Placeholder Title",
+    "slug": "placeholder_title",
+    "formats": ["placeholder_file"]
   }
 ]
