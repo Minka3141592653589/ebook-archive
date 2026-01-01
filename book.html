@@ -30,7 +30,7 @@
         const list = document.getElementById("downloads");
         for (const format of book.formats) {
           const li = document.createElement("li");
-          li.innerHTML = `<a href="#">${format.toUpperCase()} herunterladen</a>`;
+          li.innerHTML = `<a href="#">Download ${format.toUpperCase()}</a>`;
           list.appendChild(li);
         }
       });
