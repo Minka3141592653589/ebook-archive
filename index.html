@@ -2,9 +2,27 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>in progress</title>
+  <title>E-Book-Archiv</title>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <p>currently working on scraping archives</p>
+  <h1>Ebook Archive</h1>
+  <p>currently scraping archives</p>
+
+  <ul id="book-list"></ul>
+
+  <script>
+    fetch("books.json")
+      .then(r => r.json())
+      .then(books => {
+        const list = document.getElementById("book-list");
+        for (const book of books) {
+          const li = document.createElement("li");
+          li.textContent = `${book.author} – ${book.title}`;
+          list.appendChild(li);
+        }
+      });
+  </script>
 </body>
 </html>
+
