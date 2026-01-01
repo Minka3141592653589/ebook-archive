@@ -7,25 +7,48 @@
 </head>
 <body>
   <h1>Ebook Archive</h1>
-  <p>currently scraping archives</p>
+  <p>going to add more ebooks tomorrow</p>
+
+  <div>
+  <button id="sort-title">Sort by Title</button>
+  <button id="sort-author">Sort by Author</button>
+</div>
 
   <ul id="book-list"></ul>
 
   <script>
-  fetch("books.json")
-    .then(r => r.json())
-    .then(books => {
-      const list = document.getElementById("book-list");
-      for (const book of books) {
-        const li = document.createElement("li");
-        const a = document.createElement("a");
-        a.href = `book.html?book=${book.slug}`;
-        a.textContent = `${book.author} – ${book.title}`;
-        li.appendChild(a);
-        list.appendChild(li);
-      }
-    });
-  </script>
+let booksData = [];
+
+function renderBooks() {
+  const list = document.getElementById("book-list");
+  list.innerHTML = "";
+  for (const book of booksData) {
+    const li = document.createElement("li");
+    const a = document.createElement("a");
+    a.href = `book.html?book=${book.slug}`;
+    a.textContent = `${book.author} – ${book.title}`;
+    li.appendChild(a);
+    list.appendChild(li);
+  }
+}
+
+fetch("books.json")
+  .then(r => r.json())
+  .then(books => {
+    booksData = books;
+    renderBooks();
+  });
+
+document.getElementById("sort-title").addEventListener("click", () => {
+  booksData.sort((a, b) => a.title.localeCompare(b.title));
+  renderBooks();
+});
+
+document.getElementById("sort-author").addEventListener("click", () => {
+  booksData.sort((a, b) => a.author.localeCompare(b.author));
+  renderBooks();
+});
+</script>
 </body>
 </html>
 
