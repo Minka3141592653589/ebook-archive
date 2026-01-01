@@ -963,19 +963,6 @@
   },
   {
     "author": "Jules Verne",
-    "title": "Vingt mille Lieues sous les mers",
-    "slug": "vingt-mille-lieues-sous-les-mers",
-    "basePath": "ebooks/verne/vingtmil",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Jules Verne",
     "title": "Zwanzigtausend Meilen unter'm Meer - Erster Band",
     "slug": "zwanzigtausend-meilen-unter-m-meer-erster-band",
     "basePath": "ebooks/verne/zwanzig1",
