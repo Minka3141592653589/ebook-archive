@@ -5,5 +5,12 @@
     "slug": "reise-um-die-erde-in-80-tagen",
     "basePath": "ebooks/german",
     "formats": ["epub"]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise nach dem Mittelpunkt der Erde",
+    "slug": "reise-nach-dem-mittelpunkt-der-erde",
+    "basePath": "ebooks/german",
+    "formats": ["epub"]
   }
 ]
