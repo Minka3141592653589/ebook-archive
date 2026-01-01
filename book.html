@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Book</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <a href="index.html">home</a>
+
+  <h1 id="title"></h1>
+  <p id="author"></p>
+
+  <h2>Downloads</h2>
+  <ul id="downloads"></ul>
+
+  <script>
+    const params = new URLSearchParams(window.location.search);
+    const slug = params.get("book");
+
+    fetch("books.json")
+      .then(r => r.json())
+      .then(books => {
+        const book = books.find(b => b.slug === slug);
+        if (!book) return;
+
+        document.getElementById("title").textContent = book.title;
+        document.getElementById("author").textContent = book.author;
+
+        const list = document.getElementById("downloads");
+        for (const format of book.formats) {
+          const li = document.createElement("li");
+          li.innerHTML = `<a href="#">${format.toUpperCase()} herunterladen</a>`;
+          list.appendChild(li);
+        }
+      });
+  </script>
+</body>
+</html>
