@@ -4,6 +4,7 @@
     "title": "Reise um die Erde in 80 Tagen",
     "slug": "reise-um-die-erde-in-80-tagen",
     "basePath": "ebooks/german",
+    "lang": "de",
     "formats": ["epub"]
   },
   {
@@ -11,6 +12,7 @@
     "title": "Reise nach dem Mittelpunkt der Erde",
     "slug": "reise-nach-dem-mittelpunkt-der-erde",
     "basePath": "ebooks/german",
+    "lang": "de",
     "formats": ["epub"]
   }
 ]
