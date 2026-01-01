@@ -31,7 +31,7 @@
       for (const format of book.formats) {
         const li = document.createElement("li");
         const filename = `${book.slug}.${format}`;
-        const url = `${book.basePath}/${filename}`;
+        const url = `${window.location.origin}/ebook-archive/${book.basePath}/${filename}`;
         li.innerHTML = `<a href="${url}" download>${format}</a>`;
         list.appendChild(li);
       }
