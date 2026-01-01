@@ -10,45 +10,75 @@
   <p>going to add more ebooks tomorrow</p>
 
   <div>
-  <button id="sort-title">Sort by Title</button>
-  <button id="sort-author">Sort by Author</button>
-</div>
+    <label for="language">Filter by language:</label>
+    <select id="language">
+      <option value="all">All</option>
+    </select>
+  </div>
+
+  <div>
+    <button id="sort-title">Sort by Title</button>
+    <button id="sort-author">Sort by Author</button>
+  </div>
 
   <ul id="book-list"></ul>
 
   <script>
-let booksData = [];
+  document.addEventListener("DOMContentLoaded", () => {
 
-function renderBooks() {
-  const list = document.getElementById("book-list");
-  list.innerHTML = "";
-  for (const book of booksData) {
-    const li = document.createElement("li");
-    const a = document.createElement("a");
-    a.href = `book.html?book=${book.slug}`;
-    a.textContent = `${book.author} – ${book.title}`;
-    li.appendChild(a);
-    list.appendChild(li);
-  }
-}
+    let booksData = [];
+    let filteredData = [];
+    const list = document.getElementById("book-list");
+    const languageSelect = document.getElementById("language");
 
-fetch("books.json")
-  .then(r => r.json())
-  .then(books => {
-    booksData = books;
-    renderBooks();
+    function renderBooks(data) {
+      list.innerHTML = "";
+      for (const book of data) {
+        const li = document.createElement("li");
+        const a = document.createElement("a");
+        a.href = `book.html?book=${book.slug}`;
+        a.textContent = `${book.author} – ${book.title}`;
+        li.appendChild(a);
+        list.appendChild(li);
+      }
+    }
+
+    function updateFilteredData() {
+      const selectedLang = languageSelect.value;
+
+      filteredData = booksData.filter(book => {
+        return selectedLang === "all" || book.lang === selectedLang;
+      });
+
+      renderBooks(filteredData);
+    }
+    fetch("books.json")
+      .then(r => r.json())
+      .then(books => {
+        booksData = books;
+        const langs = [...new Set(books.map(b => b.lang))];
+        for (const lang of langs) {
+          const option = document.createElement("option");
+          option.value = lang;
+          option.textContent = lang.toUpperCase();
+          languageSelect.appendChild(option);
+        }
+
+        updateFilteredData();
+      });
+    languageSelect.addEventListener("change", updateFilteredData);
+
+    document.getElementById("sort-title").addEventListener("click", () => {
+      filteredData.sort((a, b) => a.title.localeCompare(b.title));
+      renderBooks(filteredData);
+    });
+
+    document.getElementById("sort-author").addEventListener("click", () => {
+      filteredData.sort((a, b) => a.author.localeCompare(b.author));
+      renderBooks(filteredData);
+    });
+
   });
-
-document.getElementById("sort-title").addEventListener("click", () => {
-  booksData.sort((a, b) => a.title.localeCompare(b.title));
-  renderBooks();
-});
-
-document.getElementById("sort-author").addEventListener("click", () => {
-  booksData.sort((a, b) => a.author.localeCompare(b.author));
-  renderBooks();
-});
-</script>
+  </script>
 </body>
 </html>
-
