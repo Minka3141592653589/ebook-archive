@@ -15,25 +15,27 @@
   <ul id="downloads"></ul>
 
   <script>
-    const params = new URLSearchParams(window.location.search);
-    const slug = params.get("book");
+  const params = new URLSearchParams(window.location.search);
+  const slug = params.get("book");
 
-    fetch("books.json")
-      .then(r => r.json())
-      .then(books => {
-        const book = books.find(b => b.slug === slug);
-        if (!book) return;
+  fetch("books.json")
+    .then(r => r.json())
+    .then(books => {
+      const book = books.find(b => b.slug === slug);
+      if (!book) return;
 
-        document.getElementById("title").textContent = book.title;
-        document.getElementById("author").textContent = book.author;
+      document.getElementById("title").textContent = book.title;
+      document.getElementById("author").textContent = book.author;
 
-        const list = document.getElementById("downloads");
-        for (const format of book.formats) {
-          const li = document.createElement("li");
-          li.innerHTML = `<a href="#">Download ${format.toUpperCase()}</a>`;
-          list.appendChild(li);
-        }
-      });
+      const list = document.getElementById("downloads");
+      for (const format of book.formats) {
+        const li = document.createElement("li");
+        const filename = `${book.slug}.${format}`;
+        const url = `${book.basePath}/${filename}`;
+        li.innerHTML = `<a href="${url}" download>${format}</a>`;
+        list.appendChild(li);
+      }
+    });
   </script>
 </body>
 </html>
