@@ -1,8 +1,11 @@
 [
   {
-    "author": "Placeholder Author",
-    "title": "Placeholder Title",
-    "slug": "placeholder_title",
-    "formats": ["placeholder_file"]
+    "lang": "de",
+    "author": "Jules Verne",
+    "title": "Reise um die Erde in 80 Tagen",
+    "slug": "reise-um-die-erde-in-80-tagen",
+    "formats": {
+      "epub": "ebooks/german/reise-um-die-erde-in-80-tagen.epub"
+    }
   }
 ]
