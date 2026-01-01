@@ -14,5 +14,21 @@
     "basePath": "ebooks/jules-verne",
     "lang": "de",
     "formats": ["epub"]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reisen und Abenteuer des Kapitän Hatteras - Erster Band",
+    "slug": "abenteuer-des-kapitaen-hatteras-erster-band",
+    "basePath": "ebooks/jules-verne",
+    "lang": "de",
+    "formats": ["epub"]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reisen und Abenteuer des Kapitän Hatteras - Zweiter Band",
+    "slug": "abenteuer-des-kapitaen-hatteras-zweiter-band",
+    "basePath": "ebooks/jules-verne",
+    "lang": "de",
+    "formats": ["epub"]
   }
 ]
