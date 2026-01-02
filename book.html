@@ -23,7 +23,7 @@
   <h2>Downloads</h2>
   <ul id="downloads"></ul>
 
-  <h2>Read online</h2>
+  <h2>Preview</h2>
   <iframe id="preview" hidden></iframe>
 
   <script>
@@ -51,7 +51,7 @@
           if (format === "html") {
             li.innerHTML = `
               <a href="${url}" download>html</a>
-              · <a href="#" class="read-online">Read online</a>
+              · <a href="#" class="read-online">Load Preview</a>
             `;
             list.appendChild(li);
 
