@@ -1,1059 +1,9 @@
 [
   {
-    "author": "Jules Verne",
-    "title": "Abenteuer des Kapitän Hatteras - Erster Band",
-    "slug": "abenteuer-des-kapitaen-hatteras-erster-band",
-    "basePath": "ebooks/verne/hattera1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Abenteuer des Kapitän Hatteras - Zweiter Band",
-    "slug": "abenteuer-des-kapitaen-hatteras-zweiter-band",
-    "basePath": "ebooks/verne/hattera2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Abenteuer von drei Russen und drei Engländern in Süd-Afrika",
-    "slug": "abenteuer-von-drei-russen-und-drei-englaendern-in-sued-afrika",
-    "basePath": "ebooks/verne/3russen",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Alles in Ordnung",
-    "slug": "alles-in-ordnung",
-    "basePath": "ebooks/verne/ordnung",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Archipel in Flammen",
-    "slug": "der-archipel-in-flammen",
-    "basePath": "ebooks/verne/archipel",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Dampfhaus - 1. Band",
-    "slug": "das-dampfhaus-1-band",
-    "basePath": "ebooks/verne/dampfha1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Dampfhaus - 2. Band",
-    "slug": "das-dampfhaus-2-band",
-    "basePath": "ebooks/verne/dampfha2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Land der Pelze - 1. Band",
-    "slug": "das-land-der-pelze-1-band",
-    "basePath": "ebooks/verne/dasland1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Land der Pelze - 2. Band",
-    "slug": "das-land-der-pelze-2-band",
-    "basePath": "ebooks/verne/dasland2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Karpathenschloß",
-    "slug": "das-karpathenschloss",
-    "basePath": "ebooks/verne/karpathe",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Testament eines Excentrischen. Erster Band",
-    "slug": "das-testament-eines-excentrischen-erster-band",
-    "basePath": "ebooks/verne/excentr1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Das Testament eines Excentrischen. Zweiter Band",
-    "slug": "das-testament-eines-excentrischen-zweiter-band",
-    "basePath": "ebooks/verne/excentr2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Courier des Czaar - Erster Band",
-    "slug": "der-courier-des-czaar-erster-band",
-    "basePath": "ebooks/verne/courier1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Courier des Czaar - Zweiter Band",
-    "slug": "der-courier-des-czaar-zweiter-band",
-    "basePath": "ebooks/verne/courier2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Chancellor",
-    "slug": "der-chancellor",
-    "basePath": "ebooks/verne/chancell",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Einbruch des Meeres",
-    "slug": "der-einbruch-des-meeres",
-    "basePath": "ebooks/verne/einbruch",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der grüne Strahl",
-    "slug": "der-gruene-strahl",
-    "basePath": "ebooks/verne/gruestra",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Leuchtturm am Ende der Welt",
-    "slug": "der-leuchtturm-am-ende-der-welt",
-    "basePath": "ebooks/verne/leuchttu",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Südstern",
-    "slug": "der-suedstern",
-    "basePath": "ebooks/verne/suedster",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Triumph des 19. Jahrhunderts. Erster Band.",
-    "slug": "der-triumph-des-19-jahrhunderts-erster-band",
-    "basePath": "ebooks/verne/19jahr-1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Der Triumph des 19. Jahrhunderts. Zweiter Band.",
-    "slug": "der-triumph-des-19-jahrhunderts-zweiter-band",
-    "basePath": "ebooks/verne/19jahr-2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die 500 Millionen der Begum",
-    "slug": "die-500-millionen-der-begum",
-    "basePath": "ebooks/verne/begum",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Drangsale eines Chinesen in China",
-    "slug": "die-drangsale-eines-chinesen-in-china",
-    "basePath": "ebooks/verne/chinese",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Entdeckung der Erde. Erster Band",
-    "slug": "die-entdeckung-der-erde-erster-band",
-    "basePath": "ebooks/verne/enterde1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Entdeckung der Erde. Zweiter Band",
-    "slug": "die-entdeckung-der-erde-zweiter-band",
-    "basePath": "ebooks/verne/enterde2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Leiden eines Chinesen in China",
-    "slug": "die-leiden-eines-chinesen-in-china",
-    "basePath": "ebooks/verne/chinese1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Eissphinx. Erster Band",
-    "slug": "die-eissphinx-erster-band",
-    "basePath": "ebooks/verne/eisspin1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Eissphinx. Zweiter Band",
-    "slug": "die-eissphinx-zweiter-band",
-    "basePath": "ebooks/verne/eisspin2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die geheimnißvolle Insel. Erster Theil. Die Schiffbrüchigen des Luftmeers",
-    "slug": "die-geheimnissvolle-insel-erster-theil-die-schiffbruechigen-des-luftmeers",
-    "basePath": "ebooks/verne/insel",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die geheimnißvolle Insel. Zweiter Theil. Der Verlassene",
-    "slug": "die-geheimnissvolle-insel-zweiter-theil-der-verlassene",
-    "basePath": "ebooks/verne/insel2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die geheimnißvolle Insel. Dritter Theil. Das Geheimniß",
-    "slug": "die-geheimnissvolle-insel-dritter-theil-das-geheimniss",
-    "basePath": "ebooks/verne/insel3",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die großen Seefahrer des 18. Jahrhunderts - 1. Band",
-    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-1-band",
-    "basePath": "ebooks/verne/seefahr",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die großen Seefahrer des 18. Jahrhunderts - 2. Band",
-    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-2-band",
-    "basePath": "ebooks/verne/seefahr2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Jangada. Zweiter Band",
-    "slug": "die-jangada-zweiter-band",
-    "basePath": "ebooks/verne/jangada2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Jangada. Erster Band",
-    "slug": "die-jangada-erster-band",
-    "basePath": "ebooks/verne/jangada1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Jagd nach dem Meteore",
-    "slug": "die-jagd-nach-dem-meteore",
-    "basePath": "ebooks/verne/meteor",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Kinder des Kapitän Grant, Band 1",
-    "slug": "die-kinder-des-kapitaen-grant-band-1",
-    "basePath": "ebooks/verne/grant1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Kinder des Kapitän Grant, Band 3",
-    "slug": "die-kinder-des-kapitaen-grant-band-3",
-    "basePath": "ebooks/verne/grant3",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Kinder des Kapitän Grant, Band 2",
-    "slug": "die-kinder-des-kapitaen-grant-band-2",
-    "basePath": "ebooks/verne/grant2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Meuterer von der »Bounty«",
-    "slug": "die-meuterer-von-der-bounty",
-    "basePath": "ebooks/verne/bounty",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Schiffbrüchigen des »Jonathan«. Erster Band",
-    "slug": "die-schiffbruechigen-des-jonathan-erster-band",
-    "basePath": "ebooks/verne/jonatha1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Schiffbrüchigen des »Jonathan«. Dritter Band",
-    "slug": "die-schiffbruechigen-des-jonathan-dritter-band",
-    "basePath": "ebooks/verne/jonatha3",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Schiffbrüchigen des »Jonathan«. Zweiter Band",
-    "slug": "die-schiffbruechigen-des-jonathan-zweiter-band",
-    "basePath": "ebooks/verne/jonatha2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Ein Drama in den Lüften",
-    "slug": "ein-drama-in-den-lueften",
-    "basePath": "ebooks/verne/dramluef",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Ein Drama in Mexico",
-    "slug": "ein-drama-in-mexico",
-    "basePath": "ebooks/verne/drammexi",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Die Schule der Robinsons",
-    "slug": "die-schule-der-robinsons",
-    "basePath": "ebooks/verne/robinson",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Reise nach dem Mittelpunkt der Erde",
-    "slug": "reise-nach-dem-mittelpunkt-der-erde",
-    "basePath": "ebooks/verne/mittelpu",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Eine Idee des Doctor Ox",
-    "slug": "eine-idee-des-doctor-ox",
-    "basePath": "ebooks/verne/doctorox",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Ein Lotterie-Los",
-    "slug": "ein-lotterie-los",
-    "basePath": "ebooks/verne/lotterie",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Eine Überwinterung im Eise",
-    "slug": "eine-ueberwinterung-im-eise",
-    "basePath": "ebooks/verne/ueberwin",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Eine schwimmende Stadt. Die Blockadebrecher",
-    "slug": "eine-schwimmende-stadt-die-blockadebrecher",
-    "basePath": "ebooks/verne/schwstad",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Herr der Welt",
-    "slug": "herr-der-welt",
-    "basePath": "ebooks/verne/herrwelt",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Fünf Wochen im Ballon",
-    "slug": "fuenf-wochen-im-ballon",
-    "basePath": "ebooks/verne/ballon",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Kein Durcheinander",
-    "slug": "kein-durcheinander",
-    "basePath": "ebooks/verne/durchein",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Keraban der Starrkopf. Erster Band",
-    "slug": "keraban-der-starrkopf-erster-band",
-    "basePath": "ebooks/verne/keraban1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Keraban der Starrkopf. Zweiter Band",
-    "slug": "keraban-der-starrkopf-zweiter-band",
-    "basePath": "ebooks/verne/keraban2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Mathias Sandorf. Erster Band",
-    "slug": "mathias-sandorf-erster-band",
-    "basePath": "ebooks/verne/sandorf1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Mathias Sandorf. Dritter Band",
-    "slug": "mathias-sandorf-dritter-band",
-    "basePath": "ebooks/verne/sandorf3",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Mathias Sandorf. Zweiter Band",
-    "slug": "mathias-sandorf-zweiter-band",
-    "basePath": "ebooks/verne/sandorf2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Martin Paz",
-    "slug": "martin-paz",
-    "basePath": "ebooks/verne/martinpa",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Meister Zacharius",
-    "slug": "meister-zacharius",
-    "basePath": "ebooks/verne/zachariu",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Meister Antifer's wunderbare Abenteuer. Erster Band",
-    "slug": "meister-antifer-s-wunderbare-abenteuer-erster-band",
-    "basePath": "ebooks/verne/antifer1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Meister Antifer's wunderbare Abenteuer. Zweiter Band",
-    "slug": "meister-antifer-s-wunderbare-abenteuer-zweiter-band",
-    "basePath": "ebooks/verne/antifer2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Mistreß Branican. Erster Theil",
-    "slug": "mistress-branican-erster-theil",
-    "basePath": "ebooks/verne/mistres1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Nord gegen Süd. Erster Band",
-    "slug": "nord-gegen-sued-erster-band",
-    "basePath": "ebooks/verne/nordsue1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Mistreß Branican. Zweiter Theil",
-    "slug": "mistress-branican-zweiter-theil",
-    "basePath": "ebooks/verne/mistres2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Nord gegen Süd. Zweiter Band",
-    "slug": "nord-gegen-sued-zweiter-band",
-    "basePath": "ebooks/verne/nordsue2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Reise durch die Sonnenwelt, Band 1",
-    "slug": "reise-durch-die-sonnenwelt-band-1",
-    "basePath": "ebooks/verne/sonnenw1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Reise um den Mond",
-    "slug": "reise-um-den-mond",
-    "basePath": "ebooks/verne/ummond",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Reise durch die Sonnenwelt, Band 2",
-    "slug": "reise-durch-die-sonnenwelt-band-2",
-    "basePath": "ebooks/verne/sonnenw2",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Reise um die Erde in 80 Tagen",
-    "slug": "reise-um-die-erde-in-80-tagen",
-    "basePath": "ebooks/verne/80tage",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Robur der Sieger",
-    "slug": "robur-der-sieger",
-    "basePath": "ebooks/verne/robur",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Von der Erde zum Mond",
-    "slug": "von-der-erde-zum-mond",
-    "basePath": "ebooks/verne/erdemond",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Schwarz-Indien",
-    "slug": "schwarz-indien",
-    "basePath": "ebooks/verne/schwindi",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Jules Verne",
-    "title": "Zwanzigtausend Meilen unter'm Meer - Erster Band",
-    "slug": "zwanzigtausend-meilen-unter-m-meer-erster-band",
-    "basePath": "ebooks/verne/zwanzig1",
-    "lang": "de",
-    "formats": [
-      "epub",
-      "mobi",
-      "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Der Schatz im Silbersee",
-    "slug": "der-schatz-im-silbersee",
-    "basePath": "ebooks/may/silbsee",
+    "author": "Franz Kafka",
+    "title": "Amerika",
+    "slug": "amerika",
+    "basePath": "ebooks/kafka/amerika",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1064,10 +14,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Sohn des Bärenjägers",
-    "slug": "der-sohn-des-baerenjaegers",
-    "basePath": "ebooks/may/baerenj",
+    "author": "Franz Kafka",
+    "title": "Aphorismen",
+    "slug": "aphorismen",
+    "basePath": "ebooks/kafka/aphorism",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1078,10 +28,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Das Vermächtnis des Inka",
-    "slug": "das-vermaechtnis-des-inka",
-    "basePath": "ebooks/may/inka",
+    "author": "Franz Kafka",
+    "title": "Blumfeld, ein älterer Junggeselle",
+    "slug": "blumfeld-ein-aelterer-junggeselle",
+    "basePath": "ebooks/kafka/blumfeld",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1092,10 +42,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Ölprinz",
-    "slug": "der-oelprinz",
-    "basePath": "ebooks/may/oelprinz",
+    "author": "Franz Kafka",
+    "title": "Brief an den Vater",
+    "slug": "brief-an-den-vater",
+    "basePath": "ebooks/kafka/vater",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1106,10 +56,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der schwarze Mustang",
-    "slug": "der-schwarze-mustang",
-    "basePath": "ebooks/may/mustang",
+    "author": "Franz Kafka",
+    "title": "Briefe an Max Brod",
+    "slug": "briefe-an-max-brod",
+    "basePath": "ebooks/kafka/testamen",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1120,10 +70,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Am Rio de la Plata",
-    "slug": "am-rio-de-la-plata",
-    "basePath": "ebooks/may/amrio",
+    "author": "Franz Kafka",
+    "title": "Briefe an Ottla und die Familie. Auszüge",
+    "slug": "briefe-an-ottla-und-die-familie-auszuege",
+    "basePath": "ebooks/kafka/brieffam",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1134,10 +84,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "In den Cordilleren",
-    "slug": "in-den-cordilleren",
-    "basePath": "ebooks/may/cordill",
+    "author": "Franz Kafka",
+    "title": "Das Schloß",
+    "slug": "das-schloss",
+    "basePath": "ebooks/kafka/schloss",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1148,10 +98,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Mein Leben und Streben",
-    "slug": "mein-leben-und-streben",
-    "basePath": "ebooks/may/lebstreb",
+    "author": "Franz Kafka",
+    "title": "Der Bau",
+    "slug": "der-bau",
+    "basePath": "ebooks/kafka/bau",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1162,10 +112,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Winnetou I",
-    "slug": "winnetou-i",
-    "basePath": "ebooks/may/winnet1",
+    "author": "Franz Kafka",
+    "title": "Der Gruftwächter",
+    "slug": "der-gruftwaechter",
+    "basePath": "ebooks/kafka/gruft",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1176,10 +126,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Winnetou II",
-    "slug": "winnetou-ii",
-    "basePath": "ebooks/may/winnet2",
+    "author": "Franz Kafka",
+    "title": "Der Prozeß",
+    "slug": "der-prozess",
+    "basePath": "ebooks/kafka/prozess",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1190,10 +140,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Winnetou III",
-    "slug": "winnetou-iii",
-    "basePath": "ebooks/may/winnet3",
+    "author": "Franz Kafka",
+    "title": "Die 8 Oktavhefte",
+    "slug": "die-8-oktavhefte",
+    "basePath": "ebooks/kafka/oktavhef",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1204,10 +154,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Halbblut und andere Erzählungen",
-    "slug": "halbblut-und-andere-erzaehlungen",
-    "basePath": "ebooks/may/halbblut",
+    "author": "Franz Kafka",
+    "title": "Die Verwandlung",
+    "slug": "die-verwandlung",
+    "basePath": "ebooks/kafka/verwandl",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1218,10 +168,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Satan und Ischariot I",
-    "slug": "satan-und-ischariot-i",
-    "basePath": "ebooks/may/satan1",
+    "author": "Franz Kafka",
+    "title": "Erzählungen I",
+    "slug": "erzaehlungen-i",
+    "basePath": "ebooks/kafka/erzaehlg",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1232,10 +182,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Winnetou IV",
-    "slug": "winnetou-iv",
-    "basePath": "ebooks/may/winnet4",
+    "author": "Franz Kafka",
+    "title": "Erzählungen II",
+    "slug": "erzaehlungen-ii",
+    "basePath": "ebooks/kafka/misc",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1246,10 +196,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Satan und Ischariot II",
-    "slug": "satan-und-ischariot-ii",
-    "basePath": "ebooks/may/satan2",
+    "author": "Franz Kafka",
+    "title": "Fragmente aus Heften und losen Blättern",
+    "slug": "fragmente-aus-heften-und-losen-blaettern",
+    "basePath": "ebooks/kafka/fragment",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1260,10 +210,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Satan und Ischariot III",
-    "slug": "satan-und-ischariot-iii",
-    "basePath": "ebooks/may/satan3",
+    "author": "Franz Kafka",
+    "title": "In der Strafkolonie",
+    "slug": "in-der-strafkolonie",
+    "basePath": "ebooks/kafka/strafkol",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1274,10 +224,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Winnetous Erben",
-    "slug": "winnetous-erben",
-    "basePath": "ebooks/may/winnerbe",
+    "author": "Franz Kafka",
+    "title": "Tagebücher 1910 - 1923",
+    "slug": "tagebuecher-1910-1923",
+    "basePath": "ebooks/kafka/tagebuch",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1288,10 +238,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Old Surehand I",
-    "slug": "old-surehand-i",
-    "basePath": "ebooks/may/surehan1",
+    "author": "Friedrich Schiller",
+    "title": "An den Herausgeber der Propyläen",
+    "slug": "an-den-herausgeber-der-propylaeen",
+    "basePath": "ebooks/schiller/propyl",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1302,10 +252,10 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Old Surehand II",
-    "slug": "old-surehand-ii",
-    "basePath": "ebooks/may/surehan2",
+    "author": "Friedrich Schiller",
+    "title": "Aus dem Szenar zum »Demetrius«",
+    "slug": "aus-dem-szenar-zum-demetrius",
+    "basePath": "ebooks/schiller/szendeme",
     "lang": "de",
     "formats": [
       "azw3",
@@ -1316,1039 +266,815 @@
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Babel und Bibel",
-    "slug": "babel-und-bibel",
-    "basePath": "ebooks/may/abelbabe",
+    "author": "Friedrich Schiller",
+    "title": "Briefe über Don Carlos",
+    "slug": "briefe-ueber-don-carlos",
+    "basePath": "ebooks/schiller/brcarlos",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Am stillen Ocean",
-    "slug": "am-stillen-ocean",
-    "basePath": "ebooks/may/amstille",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Sinnsprüche",
-    "slug": "sinnsprueche",
-    "basePath": "ebooks/may/aphorism",
+    "author": "Friedrich Schiller",
+    "title": "Demetrius",
+    "slug": "demetrius",
+    "basePath": "ebooks/schiller/demetriu",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Ardistan und Dschinnistan. Band I",
-    "slug": "ardistan-und-dschinnistan-band-i",
-    "basePath": "ebooks/may/ardis-1",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Ardistan und Dschinnistan. Band II",
-    "slug": "ardistan-und-dschinnistan-band-ii",
-    "basePath": "ebooks/may/ardis-2",
+    "author": "Friedrich Schiller",
+    "title": "Denkwürdigkeiten aus dem Leben des Marschalls von Vieilleville",
+    "slug": "denkwuerdigkeiten-aus-dem-leben-des-marschalls-von-vieilleville",
+    "basePath": "ebooks/schiller/vieillev",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Der Mir von Dschinnistan",
-    "slug": "der-mir-von-dschinnistan",
-    "basePath": "ebooks/may/ardista1",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Von Bagdad nach Stambul",
-    "slug": "von-bagdad-nach-stambul",
-    "basePath": "ebooks/may/bagdad",
+    "author": "Friedrich Schiller",
+    "title": "Der Geisterseher",
+    "slug": "der-geisterseher",
+    "basePath": "ebooks/schiller/geisters",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "In den Schluchten des Balkan",
-    "slug": "in-den-schluchten-des-balkan",
-    "basePath": "ebooks/may/balkan",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Das Buschgespenst",
-    "slug": "das-buschgespenst",
-    "basePath": "ebooks/may/buschges",
+    "author": "Friedrich Schiller",
+    "title": "Der Neffe als Onkel",
+    "slug": "der-neffe-als-onkel",
+    "basePath": "ebooks/schiller/neffeonk",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Ein Abenteuer auf Ceylon",
-    "slug": "ein-abenteuer-auf-ceylon",
-    "basePath": "ebooks/may/ceylon",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Ein Stücklein vom alten Dessauer",
-    "slug": "ein-stuecklein-vom-alten-dessauer",
-    "basePath": "ebooks/may/desskurz",
+    "author": "Friedrich Schiller",
+    "title": "Der Parasit",
+    "slug": "der-parasit",
+    "basePath": "ebooks/schiller/parasit",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Eine deutsche Sultana",
-    "slug": "eine-deutsche-sultana",
-    "basePath": "ebooks/may/deuther1",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Königin der Wüste",
-    "slug": "die-koenigin-der-wueste",
-    "basePath": "ebooks/may/deuther2",
+    "author": "Friedrich Schiller",
+    "title": "Der Spaziergang unter den Linden",
+    "slug": "der-spaziergang-unter-den-linden",
+    "basePath": "ebooks/schiller/spazlind",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Der Fürst der Bleichgesichter",
-    "slug": "der-fuerst-der-bleichgesichter",
-    "basePath": "ebooks/may/deuther3",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Thale des Todes",
-    "slug": "im-thale-des-todes",
-    "basePath": "ebooks/may/deuther4",
+    "author": "Friedrich Schiller",
+    "title": "Der Verbrecher aus verlorener Ehre",
+    "slug": "der-verbrecher-aus-verlorener-ehre",
+    "basePath": "ebooks/schiller/verbrech",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Der Engel der Verbannten 1",
-    "slug": "der-engel-der-verbannten-1",
-    "basePath": "ebooks/may/deuther5",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Engel der Verbannten/Auf der Flucht",
-    "slug": "der-engel-der-verbannten-auf-der-flucht",
-    "basePath": "ebooks/may/deuther6",
+    "author": "Friedrich Schiller",
+    "title": "Die Braut von Messina",
+    "slug": "die-braut-von-messina",
+    "basePath": "ebooks/schiller/messina",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Erzgebirgische Dorfgeschichten",
-    "slug": "erzgebirgische-dorfgeschichten",
-    "basePath": "ebooks/may/erzgebir",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Old Firehand",
-    "slug": "old-firehand",
-    "basePath": "ebooks/may/firehand",
+    "author": "Friedrich Schiller",
+    "title": "Die Gesetzgebung des Lykurgus und Solon",
+    "slug": "die-gesetzgebung-des-lykurgus-und-solon",
+    "basePath": "ebooks/schiller/lyksolon",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Freuden und Leiden eines Vielgelesenen",
-    "slug": "freuden-und-leiden-eines-vielgelesenen",
-    "basePath": "ebooks/may/freuden",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Und Friede auf Erden",
-    "slug": "und-friede-auf-erden",
-    "basePath": "ebooks/may/friede",
+    "author": "Friedrich Schiller",
+    "title": "Die Huldigung der Künste",
+    "slug": "die-huldigung-der-kuenste",
+    "basePath": "ebooks/schiller/huldigng",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Auf fremden Pfaden",
-    "slug": "auf-fremden-pfaden",
-    "basePath": "ebooks/may/frmdpfad",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Himmelsgedanken",
-    "slug": "himmelsgedanken",
-    "basePath": "ebooks/may/gedichte",
+    "author": "Friedrich Schiller",
+    "title": "Die Jungfrau von Orleans",
+    "slug": "die-jungfrau-von-orleans",
+    "basePath": "ebooks/schiller/jungfrau",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Am Jenseits",
-    "slug": "am-jenseits",
-    "basePath": "ebooks/may/jenseits",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Juweleninsel",
-    "slug": "die-juweleninsel",
-    "basePath": "ebooks/may/juweleni",
+    "author": "Friedrich Schiller",
+    "title": "Die Räuber",
+    "slug": "die-raeuber",
+    "basePath": "ebooks/schiller/raeuber",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Kapitän Kaiman und andere Erzählungen",
-    "slug": "kapitaen-kaiman-und-andere-erzaehlungen",
-    "basePath": "ebooks/may/kaiman",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Khong-Kheou, das Ehrenwort",
-    "slug": "khong-kheou-das-ehrenwort",
-    "basePath": "ebooks/may/kong",
+    "author": "Friedrich Schiller",
+    "title": "Die Schaubühne als eine moralische Anstalt betrachtet",
+    "slug": "die-schaubuehne-als-eine-moralische-anstalt-betrachtet",
+    "basePath": "ebooks/schiller/anstalt",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Durchs wilde Kurdistan",
-    "slug": "durchs-wilde-kurdistan",
-    "basePath": "ebooks/may/kurdista",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Lande des Mahdi I",
-    "slug": "im-lande-des-mahdi-i",
-    "basePath": "ebooks/may/mahdi1",
+    "author": "Friedrich Schiller",
+    "title": "Die Sendung Moses",
+    "slug": "die-sendung-moses",
+    "basePath": "ebooks/schiller/moses",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Im Lande des Mahdi II",
-    "slug": "im-lande-des-mahdi-ii",
-    "basePath": "ebooks/may/mahdi2",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Lande des Mahdi III",
-    "slug": "im-lande-des-mahdi-iii",
-    "basePath": "ebooks/may/mahdi3",
+    "author": "Friedrich Schiller",
+    "title": "Die Verschwörung des Fiesco zu Genua",
+    "slug": "die-verschwoerung-des-fiesco-zu-genua",
+    "basePath": "ebooks/schiller/fiesco",
     "lang": "de",
     "formats": [
-      "epub",
-      "mobi",
       "azw3",
-      "pdf",
-      "html"
-    ]
-  },
-  {
-    "author": "Karl May",
-    "title": "Der blaurote Methusalem",
-    "slug": "der-blaurote-methusalem",
-    "basePath": "ebooks/may/methusal",
-    "lang": "de",
-    "formats": [
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Fastnachtsnarren",
-    "slug": "die-fastnachtsnarren",
-    "basePath": "ebooks/may/narren",
+    "author": "Friedrich Schiller",
+    "title": "Don Carlos, Infant von Spanien",
+    "slug": "don-carlos-infant-von-spanien",
+    "basePath": "ebooks/schiller/carlos",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Orangen und Datteln",
-    "slug": "orangen-und-datteln",
-    "basePath": "ebooks/may/orangen",
+    "author": "Friedrich Schiller",
+    "title": "Eine großmütige Handlung aus der neuesten Geschichte",
+    "slug": "eine-grossmuetige-handlung-aus-der-neuesten-geschichte",
+    "basePath": "ebooks/schiller/grossmut",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der beiden Quitzows letzte Fahrten",
-    "slug": "der-beiden-quitzows-letzte-fahrten",
-    "basePath": "ebooks/may/quitzows",
+    "author": "Friedrich Schiller",
+    "title": "Etwas über die erste Menschengesellschaft nach dem Leitfaden der mosaischen Urkunde",
+    "slug": "etwas-ueber-die-erste-menschengesellschaft-nach-dem-leitfaden-der-mosaischen-urkunde",
+    "basePath": "ebooks/schiller/erstemen",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Schloß Rodriganda",
-    "slug": "schloss-rodriganda",
-    "basePath": "ebooks/may/rodrigan",
+    "author": "Friedrich Schiller",
+    "title": "Gedanken über den Gebrauch des Gemeinen und Niedrigen in der Kunst",
+    "slug": "gedanken-ueber-den-gebrauch-des-gemeinen-und-niedrigen-in-der-kunst",
+    "basePath": "ebooks/schiller/gemeine",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Rose von Ernstthal",
-    "slug": "die-rose-von-ernstthal",
-    "basePath": "ebooks/may/rose",
+    "author": "Friedrich Schiller",
+    "title": "Gedichte",
+    "slug": "gedichte",
+    "basePath": "ebooks/schiller/gedichte",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Szepter und Hammer",
-    "slug": "szepter-und-hammer",
-    "basePath": "ebooks/may/scepter",
+    "author": "Friedrich Schiller",
+    "title": "Geschichte der Unruhen in Frankreich, welche der Regierung Heinrichs IV. vorangingen",
+    "slug": "geschichte-der-unruhen-in-frankreich-welche-der-regierung-heinrichs-iv-vorangingen",
+    "basePath": "ebooks/schiller/hugenot",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Schut",
-    "slug": "der-schut",
-    "basePath": "ebooks/may/schut",
+    "author": "Friedrich Schiller",
+    "title": "Geschichte des Abfalls der vereinigten Niederlande",
+    "slug": "geschichte-des-abfalls-der-vereinigten-niederlande",
+    "basePath": "ebooks/schiller/niederld",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Scout",
-    "slug": "der-scout",
-    "basePath": "ebooks/may/scout",
+    "author": "Friedrich Schiller",
+    "title": "Geschichte des dreißigjährigen Kriegs",
+    "slug": "geschichte-des-dreissigjaehrigen-kriegs",
+    "basePath": "ebooks/schiller/30jkrieg",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "El Sendador, Teil 1",
-    "slug": "el-sendador-teil-1",
-    "basePath": "ebooks/may/sendado1",
+    "author": "Friedrich Schiller",
+    "title": "Geschichten aus dem alten Pitaval",
+    "slug": "geschichten-aus-dem-alten-pitaval",
+    "basePath": "ebooks/schiller/pitaval",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "El Sendador, Teil 2",
-    "slug": "el-sendador-teil-2",
-    "basePath": "ebooks/may/sendado2",
+    "author": "Friedrich Schiller",
+    "title": "Herzog von Alba bei einem Frühstück auf dem Schlosse zu Rudolstadt, im Jahr 1547",
+    "slug": "herzog-von-alba-bei-einem-fruehstueck-auf-dem-schlosse-zu-rudolstadt-im-jahr-1547",
+    "basePath": "ebooks/schiller/rudolst",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Reich des silbernen Löwen I",
-    "slug": "im-reich-des-silbernen-loewen-i",
-    "basePath": "ebooks/may/siloewe1",
+    "author": "Friedrich Schiller",
+    "title": "Kabale und Liebe",
+    "slug": "kabale-und-liebe",
+    "basePath": "ebooks/schiller/kabale",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Reich des silbernen Löwen II",
-    "slug": "im-reich-des-silbernen-loewen-ii",
-    "basePath": "ebooks/may/siloewe2",
+    "author": "Friedrich Schiller",
+    "title": "Merkwürdiges Beispiel einer weiblichen Rache",
+    "slug": "merkwuerdiges-beispiel-einer-weiblichen-rache",
+    "basePath": "ebooks/schiller/weibrach",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Reich des silbernen Löwen III",
-    "slug": "im-reich-des-silbernen-loewen-iii",
-    "basePath": "ebooks/may/siloewe3",
+    "author": "Friedrich Schiller",
+    "title": "Philosophische Briefe",
+    "slug": "philosophische-briefe",
+    "basePath": "ebooks/schiller/phbriefe",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Im Reich des silbernen Löwen IV",
-    "slug": "im-reich-des-silbernen-loewen-iv",
-    "basePath": "ebooks/may/siloewe4",
+    "author": "Friedrich Schiller",
+    "title": "Spiel des Schicksals",
+    "slug": "spiel-des-schicksals",
+    "basePath": "ebooks/schiller/spielsch",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Durch das Land der Skipetaren",
-    "slug": "durch-das-land-der-skipetaren",
-    "basePath": "ebooks/may/skipetar",
+    "author": "Friedrich Schiller",
+    "title": "Turandot, Prinzesson von China",
+    "slug": "turandot-prinzesson-von-china",
+    "basePath": "ebooks/schiller/turando1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Sklavenkarawane",
-    "slug": "die-sklavenkarawane",
-    "basePath": "ebooks/may/sklaven",
+    "author": "Friedrich Schiller",
+    "title": "Ueber Anmuth und Würde",
+    "slug": "ueber-anmuth-und-wuerde",
+    "basePath": "ebooks/schiller/anmutwde",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Am Stillen Ozean",
-    "slug": "am-stillen-ozean",
-    "basePath": "ebooks/may/stilloze",
+    "author": "Friedrich Schiller",
+    "title": "Ueber Bürgers Gedichte",
+    "slug": "ueber-buergers-gedichte",
+    "basePath": "ebooks/schiller/buergerg",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Old Surehand III",
-    "slug": "old-surehand-iii",
-    "basePath": "ebooks/may/surehan3",
+    "author": "Friedrich Schiller",
+    "title": "Ueber das Erhabene",
+    "slug": "ueber-das-erhabene",
+    "basePath": "ebooks/schiller/erhaben",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Liebe des Ulanen. Teil 1",
-    "slug": "die-liebe-des-ulanen-teil-1",
-    "basePath": "ebooks/may/ulan01",
+    "author": "Friedrich Schiller",
+    "title": "Ueber das Pathetische",
+    "slug": "ueber-das-pathetische",
+    "basePath": "ebooks/schiller/pathos",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Liebe des Ulanen. Teil 2",
-    "slug": "die-liebe-des-ulanen-teil-2",
-    "basePath": "ebooks/may/ulan02",
+    "author": "Friedrich Schiller",
+    "title": "Ueber den Gartenkalender auf das Jahr 1795",
+    "slug": "ueber-den-gartenkalender-auf-das-jahr-1795",
+    "basePath": "ebooks/schiller/gartenk",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Liebe des Ulanen. Teil 3",
-    "slug": "die-liebe-des-ulanen-teil-3",
-    "basePath": "ebooks/may/ulan03",
+    "author": "Friedrich Schiller",
+    "title": "Ueber den Grund des Vergnügens an tragischen Gegenständen",
+    "slug": "ueber-den-grund-des-vergnuegens-an-tragischen-gegenstaenden",
+    "basePath": "ebooks/schiller/traggegn",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Liebe des Ulanen. Teil 4",
-    "slug": "die-liebe-des-ulanen-teil-4",
-    "basePath": "ebooks/may/ulan04",
+    "author": "Friedrich Schiller",
+    "title": "Ueber den moralischen Nutzen ästhetischer Sitten",
+    "slug": "ueber-den-moralischen-nutzen-aesthetischer-sitten",
+    "basePath": "ebooks/schiller/mornutz",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Liebe des Ulanen. Teil 5",
-    "slug": "die-liebe-des-ulanen-teil-5",
-    "basePath": "ebooks/may/ulan05",
+    "author": "Friedrich Schiller",
+    "title": "Ueber den Zusammenhang der thierischen Natur des Menschen mit seiner geistigen",
+    "slug": "ueber-den-zusammenhang-der-thierischen-natur-des-menschen-mit-seiner-geistigen",
+    "basePath": "ebooks/schiller/tierisch",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Matavese, der Fürst des Felsens, Teil 1",
-    "slug": "matavese-der-fuerst-des-felsens-teil-1",
-    "basePath": "ebooks/may/waldro31",
+    "author": "Friedrich Schiller",
+    "title": "Ueber die nothwendigen Grenzen beim Gebrauch schöner Formen",
+    "slug": "ueber-die-nothwendigen-grenzen-beim-gebrauch-schoener-formen",
+    "basePath": "ebooks/schiller/grformen",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Matavese, der Fürst des Felsens, Teil 2",
-    "slug": "matavese-der-fuerst-des-felsens-teil-2",
-    "basePath": "ebooks/may/waldro32",
+    "author": "Friedrich Schiller",
+    "title": "Ueber die tragische Kunst",
+    "slug": "ueber-die-tragische-kunst",
+    "basePath": "ebooks/schiller/trkunst",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Ein Gardeleutnant",
-    "slug": "ein-gardeleutnant",
-    "basePath": "ebooks/may/waldro41",
+    "author": "Friedrich Schiller",
+    "title": "Ueber die ästhetische Erziehung des Menschen",
+    "slug": "ueber-die-aesthetische-erziehung-des-menschen",
+    "basePath": "ebooks/schiller/aesterz",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Abenteuer des schwarzen Gerard, Teil 1",
-    "slug": "die-abenteuer-des-schwarzen-gerard-teil-1",
-    "basePath": "ebooks/may/waldro42",
+    "author": "Friedrich Schiller",
+    "title": "Ueber Egmont, Trauerspiel von Goethe",
+    "slug": "ueber-egmont-trauerspiel-von-goethe",
+    "basePath": "ebooks/schiller/egmonttg",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Abenteuer des schwarzen Gerard, Teil 2",
-    "slug": "die-abenteuer-des-schwarzen-gerard-teil-2",
-    "basePath": "ebooks/may/waldro43",
+    "author": "Friedrich Schiller",
+    "title": "Ueber Matthissons Gedichte",
+    "slug": "ueber-matthissons-gedichte",
+    "basePath": "ebooks/schiller/matthiss",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Die Tochter des Granden",
-    "slug": "die-tochter-des-granden",
-    "basePath": "ebooks/may/waldroe1",
+    "author": "Friedrich Schiller",
+    "title": "Ueber Völkerwanderung, Kreuzzüge und Mittelalter",
+    "slug": "ueber-voelkerwanderung-kreuzzuege-und-mittelalter",
+    "basePath": "ebooks/schiller/voelkerw",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Schatz der Mixtekas",
-    "slug": "der-schatz-der-mixtekas",
-    "basePath": "ebooks/may/waldroe2",
+    "author": "Friedrich Schiller",
+    "title": "Uebersicht des Zustands von Europa zur Zeit des ersten Kreuzzugs",
+    "slug": "uebersicht-des-zustands-von-europa-zur-zeit-des-ersten-kreuzzugs",
+    "basePath": "ebooks/schiller/1kreuzzg",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Erkämpftes Glück, Teil 1",
-    "slug": "erkaempftes-glueck-teil-1",
-    "basePath": "ebooks/may/waldroe5",
+    "author": "Friedrich Schiller",
+    "title": "Universalhistorische Uebersicht der merkwürdigsten Staatsbegebenheiten zu den Zeiten Kaiser Friedrichs I.",
+    "slug": "universalhistorische-uebersicht-der-merkwuerdigsten-staatsbegebenheiten-zu-den-zeiten-kaiser-friedrichs-i",
+    "basePath": "ebooks/schiller/merkwrd",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Erkämpftes Glück, Teil 2",
-    "slug": "erkaempftes-glueck-teil-2",
-    "basePath": "ebooks/may/waldroe6",
+    "author": "Friedrich Schiller",
+    "title": "Vorrede zu dem ersten Theile der merkwürdigsten Rechtsfälle nach Pitaval",
+    "slug": "vorrede-zu-dem-ersten-theile-der-merkwuerdigsten-rechtsfaelle-nach-pitaval",
+    "basePath": "ebooks/schiller/vpitaval",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Erkämpftes Glück, Teil 3",
-    "slug": "erkaempftes-glueck-teil-3",
-    "basePath": "ebooks/may/waldroe7",
+    "author": "Friedrich Schiller",
+    "title": "Vorrede zu der Geschichte des Maltheserordens nach Vertot von M. N. bearbeitet",
+    "slug": "vorrede-zu-der-geschichte-des-maltheserordens-nach-vertot-von-m-n-bearbeitet",
+    "basePath": "ebooks/schiller/malthesr",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Weg zum Glück. Erster Band",
-    "slug": "der-weg-zum-glueck-erster-band",
-    "basePath": "ebooks/may/wegglue1",
+    "author": "Friedrich Schiller",
+    "title": "Wallenstein",
+    "slug": "wallenstein",
+    "basePath": "ebooks/schiller/wallenst",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Weg zum Glück. Zweiter Band",
-    "slug": "der-weg-zum-glueck-zweiter-band",
-    "basePath": "ebooks/may/wegglue2",
+    "author": "Friedrich Schiller",
+    "title": "Was heißt und zu welchem Ende studiert man Universalgeschichte?",
+    "slug": "was-heisst-und-zu-welchem-ende-studiert-man-universalgeschichte",
+    "basePath": "ebooks/schiller/universl",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Weg zum Glück. Dritter Band",
-    "slug": "der-weg-zum-glueck-dritter-band",
-    "basePath": "ebooks/may/wegglue3",
+    "author": "Friedrich Schiller",
+    "title": "Wilhelm Tell",
+    "slug": "wilhelm-tell",
+    "basePath": "ebooks/schiller/tell",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Weg zum Glück. Vierter Band",
-    "slug": "der-weg-zum-glueck-vierter-band",
-    "basePath": "ebooks/may/wegglue4",
+    "author": "Friedrich Schiller",
+    "title": "Zerstreute Betrachtungen über verschiedene ästhetische Gegenstände",
+    "slug": "zerstreute-betrachtungen-ueber-verschiedene-aesthetische-gegenstaende",
+    "basePath": "ebooks/schiller/vaesthet",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Weg zum Glück. Fünfter Band",
-    "slug": "der-weg-zum-glueck-fuenfter-band",
-    "basePath": "ebooks/may/wegglue5",
+    "author": "Friedrich Schiller",
+    "title": "Über naive und sentimentalische Dichtung",
+    "slug": "ueber-naive-und-sentimentalische-dichtung",
+    "basePath": "ebooks/schiller/naivsent",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Der Weg zum Glück. Sechster Band",
-    "slug": "der-weg-zum-glueck-sechster-band",
-    "basePath": "ebooks/may/wegglue6",
+    "author": "Henri Poincaré",
+    "title": "Der Wert der Wissenschaft",
+    "slug": "der-wert-der-wissenschaft",
+    "basePath": "ebooks/poincare/wertwiss",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Weihnacht!",
-    "slug": "weihnacht",
-    "basePath": "ebooks/may/weihnach",
+    "author": "Herodot",
+    "title": "Des Herodotos von Halikarnassos Geschichten. Erster Band",
+    "slug": "des-herodotos-von-halikarnassos-geschichten-erster-band",
+    "basePath": "ebooks/herodot/geschic1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Durch die Wüste",
-    "slug": "durch-die-wueste",
-    "basePath": "ebooks/may/wueste",
+    "author": "Herodot",
+    "title": "Des Herodotos von Halikarnassos Geschichten. Zweiter Band",
+    "slug": "des-herodotos-von-halikarnassos-geschichten-zweiter-band",
+    "basePath": "ebooks/herodot/geschic2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Karl May",
-    "title": "Das Zauberwasser und andere Erzählungen",
-    "slug": "das-zauberwasser-und-andere-erzaehlungen",
-    "basePath": "ebooks/may/zauberwa",
+    "author": "Herodot",
+    "title": "Orientalische Königsgeschichten",
+    "slug": "orientalische-koenigsgeschichten",
+    "basePath": "ebooks/herodot/oriental",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
@@ -2356,6 +1082,20 @@
     "title": "Achilleis",
     "slug": "achilleis",
     "basePath": "ebooks/goethe/achill1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Aus einer Reise in die Schweiz über Frankfurt, Heidelberg, Stuttgart und Tübingen im Jahre 1797",
+    "slug": "aus-einer-reise-in-die-schweiz-ueber-frankfurt-heidelberg-stuttgart-und-tuebingen-im-jahre-1797",
+    "basePath": "ebooks/goethe/screis97",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2423,23 +1163,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Aus einer Reise in die Schweiz über Frankfurt, Heidelberg, Stuttgart und Tübingen im Jahre 1797",
-    "slug": "aus-einer-reise-in-die-schweiz-ueber-frankfurt-heidelberg-stuttgart-und-tuebingen-im-jahre-1797",
-    "basePath": "ebooks/goethe/screis97",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Briefe von Goethe an Johanna Fahlmer",
-    "slug": "briefe-von-goethe-an-johanna-fahlmer",
-    "basePath": "ebooks/goethe/br-fahlm",
+    "title": "Briefe an Charlotte Stein, Band 1",
+    "slug": "briefe-an-charlotte-stein-band-1",
+    "basePath": "ebooks/goethe/brstein1",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2465,9 +1191,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Briefwechsel mit seiner Frau. Band II",
-    "slug": "briefwechsel-mit-seiner-frau-band-ii",
-    "basePath": "ebooks/goethe/br-frau2",
+    "title": "Briefe von Goethe an Johanna Fahlmer",
+    "slug": "briefe-von-goethe-an-johanna-fahlmer",
+    "basePath": "ebooks/goethe/br-fahlm",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2479,9 +1205,23 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Briefe an Charlotte Stein, Band 1",
-    "slug": "briefe-an-charlotte-stein-band-1",
-    "basePath": "ebooks/goethe/brstein1",
+    "title": "Briefwechsel mit seiner Frau. Band I",
+    "slug": "briefwechsel-mit-seiner-frau-band-i",
+    "basePath": "ebooks/goethe/br-frau1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefwechsel mit seiner Frau. Band II",
+    "slug": "briefwechsel-mit-seiner-frau-band-ii",
+    "basePath": "ebooks/goethe/br-frau2",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2521,6 +1261,20 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
+    "title": "Claudine von Villa Bella",
+    "slug": "claudine-von-villa-bella",
+    "basePath": "ebooks/goethe/claudin2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
     "title": "Clavigo",
     "slug": "clavigo",
     "basePath": "ebooks/goethe/clavigo",
@@ -2549,37 +1303,37 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Briefwechsel mit seiner Frau. Band I",
-    "slug": "briefwechsel-mit-seiner-frau-band-i",
-    "basePath": "ebooks/goethe/br-frau1",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Claudine von Villa Bella",
-    "slug": "claudine-von-villa-bella",
-    "basePath": "ebooks/goethe/claudin2",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
     "title": "Das Märchen",
     "slug": "das-maerchen",
     "basePath": "ebooks/goethe/maerchen",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Bürgergeneral",
+    "slug": "der-buergergeneral",
+    "basePath": "ebooks/goethe/bgeneral",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Groß-Cophta",
+    "slug": "der-gross-cophta",
+    "basePath": "ebooks/goethe/cophta",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2619,37 +1373,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Der Bürgergeneral",
-    "slug": "der-buergergeneral",
-    "basePath": "ebooks/goethe/bgeneral",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
     "title": "Der Prokurator",
     "slug": "der-prokurator",
     "basePath": "ebooks/goethe/prokurat",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Der Groß-Cophta",
-    "slug": "der-gross-cophta",
-    "basePath": "ebooks/goethe/cophta",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2703,219 +1429,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Die Aufgeregten",
-    "slug": "die-aufgeregten",
-    "basePath": "ebooks/goethe/aufgereg",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Geschwister",
-    "slug": "die-geschwister",
-    "basePath": "ebooks/goethe/geschwis",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Geschichte von Mignons Eltern",
-    "slug": "die-geschichte-von-mignons-eltern",
-    "basePath": "ebooks/goethe/migeltrn",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die guten Frauen, als Gegenbilder der bösen Weiber, auf den Kupfern des diesjährigen Damenalmanachs",
-    "slug": "die-guten-frauen-als-gegenbilder-der-boesen-weiber-auf-den-kupfern-des-diesjaehrigen-damenalmanachs",
-    "basePath": "ebooks/goethe/gutfrau",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Mitschuldigen",
-    "slug": "die-mitschuldigen",
-    "basePath": "ebooks/goethe/mitschul",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Laune des Verliebten",
-    "slug": "die-laune-des-verliebten",
-    "basePath": "ebooks/goethe/laune",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Sängerin Antonelli",
-    "slug": "die-saengerin-antonelli",
-    "basePath": "ebooks/goethe/antonell",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die natürliche Tochter",
-    "slug": "die-natuerliche-tochter",
-    "basePath": "ebooks/goethe/nattocht",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die wunderlichen Nachbarskinder",
-    "slug": "die-wunderlichen-nachbarskinder",
-    "basePath": "ebooks/goethe/nachbars",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
     "title": "Dichtung und Wahrheit. Dritter und vierter Teil",
     "slug": "dichtung-und-wahrheit-dritter-und-vierter-teil",
     "basePath": "ebooks/goethe/dichwah2",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die pilgernde Törin",
-    "slug": "die-pilgernde-toerin",
-    "basePath": "ebooks/goethe/toerin",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die gefährliche Wette",
-    "slug": "die-gefaehrliche-wette",
-    "basePath": "ebooks/goethe/gefwette",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Wahlverwandtschaften",
-    "slug": "die-wahlverwandtschaften",
-    "basePath": "ebooks/goethe/wahlverw",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die neue Melusine",
-    "slug": "die-neue-melusine",
-    "basePath": "ebooks/goethe/melusine",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Vögel",
-    "slug": "die-voegel",
-    "basePath": "ebooks/goethe/voegel",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Die Leiden des jungen Werther",
-    "slug": "die-leiden-des-jungen-werther",
-    "basePath": "ebooks/goethe/werther",
     "lang": "de",
     "formats": [
       "azw3",
@@ -2941,65 +1457,219 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
+    "title": "Die Aufgeregten",
+    "slug": "die-aufgeregten",
+    "basePath": "ebooks/goethe/aufgereg",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die gefährliche Wette",
+    "slug": "die-gefaehrliche-wette",
+    "basePath": "ebooks/goethe/gefwette",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Geschichte von Mignons Eltern",
+    "slug": "die-geschichte-von-mignons-eltern",
+    "basePath": "ebooks/goethe/migeltrn",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Geschwister",
+    "slug": "die-geschwister",
+    "basePath": "ebooks/goethe/geschwis",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die guten Frauen, als Gegenbilder der bösen Weiber, auf den Kupfern des diesjährigen Damenalmanachs",
+    "slug": "die-guten-frauen-als-gegenbilder-der-boesen-weiber-auf-den-kupfern-des-diesjaehrigen-damenalmanachs",
+    "basePath": "ebooks/goethe/gutfrau",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Laune des Verliebten",
+    "slug": "die-laune-des-verliebten",
+    "basePath": "ebooks/goethe/laune",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Leiden des jungen Werther",
+    "slug": "die-leiden-des-jungen-werther",
+    "basePath": "ebooks/goethe/werther",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Mitschuldigen",
+    "slug": "die-mitschuldigen",
+    "basePath": "ebooks/goethe/mitschul",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die natürliche Tochter",
+    "slug": "die-natuerliche-tochter",
+    "basePath": "ebooks/goethe/nattocht",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die neue Melusine",
+    "slug": "die-neue-melusine",
+    "basePath": "ebooks/goethe/melusine",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die pilgernde Törin",
+    "slug": "die-pilgernde-toerin",
+    "basePath": "ebooks/goethe/toerin",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Sängerin Antonelli",
+    "slug": "die-saengerin-antonelli",
+    "basePath": "ebooks/goethe/antonell",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Vögel",
+    "slug": "die-voegel",
+    "basePath": "ebooks/goethe/voegel",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Wahlverwandtschaften",
+    "slug": "die-wahlverwandtschaften",
+    "basePath": "ebooks/goethe/wahlverw",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die wunderlichen Nachbarskinder",
+    "slug": "die-wunderlichen-nachbarskinder",
+    "basePath": "ebooks/goethe/nachbars",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
     "title": "Dramatische Fragmente: Anekdote zu den Freuden des jungen Werthers / Erwin und Elmire / Hanswursts Hochzeit",
     "slug": "dramatische-fragmente-anekdote-zu-den-freuden-des-jungen-werthers-erwin-und-elmire-hanswursts-hochzeit",
     "basePath": "ebooks/goethe/3drafrag",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Erwin und Elmire. Zweite Fassung",
-    "slug": "erwin-und-elmire-zweite-fassung",
-    "basePath": "ebooks/goethe/erwin-2",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Eine Gespenstergeschichte",
-    "slug": "eine-gespenstergeschichte",
-    "basePath": "ebooks/goethe/gespenst",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Ein Fastnachtsspiel",
-    "slug": "ein-fastnachtsspiel",
-    "basePath": "ebooks/goethe/fassnach",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Estherspiel - Zweite Fassung",
-    "slug": "estherspiel-zweite-fassung",
-    "basePath": "ebooks/goethe/esther2",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3025,9 +1695,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Für Lavater verfasste Erklärung",
-    "slug": "fuer-lavater-verfasste-erklaerung",
-    "basePath": "ebooks/goethe/fuerlava",
+    "title": "Ein Fastnachtsspiel",
+    "slug": "ein-fastnachtsspiel",
+    "basePath": "ebooks/goethe/fassnach",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3039,9 +1709,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Ferdinands Schuld und Wandlung",
-    "slug": "ferdinands-schuld-und-wandlung",
-    "basePath": "ebooks/goethe/ferdinan",
+    "title": "Eine Gespenstergeschichte",
+    "slug": "eine-gespenstergeschichte",
+    "basePath": "ebooks/goethe/gespenst",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3053,9 +1723,23 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Götter, Helden und Wieland",
-    "slug": "goetter-helden-und-wieland",
-    "basePath": "ebooks/goethe/wieland",
+    "title": "Erwin und Elmire. Zweite Fassung",
+    "slug": "erwin-und-elmire-zweite-fassung",
+    "basePath": "ebooks/goethe/erwin-2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Estherspiel - Zweite Fassung",
+    "slug": "estherspiel-zweite-fassung",
+    "basePath": "ebooks/goethe/esther2",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3095,9 +1779,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Helena im Mittelalter",
-    "slug": "helena-im-mittelalter",
-    "basePath": "ebooks/goethe/helena",
+    "title": "Ferdinands Schuld und Wandlung",
+    "slug": "ferdinands-schuld-und-wandlung",
+    "basePath": "ebooks/goethe/ferdinan",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3109,9 +1793,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Götz von Berlichingen",
-    "slug": "goetz-von-berlichingen",
-    "basePath": "ebooks/goethe/berlich",
+    "title": "Für Lavater verfasste Erklärung",
+    "slug": "fuer-lavater-verfasste-erklaerung",
+    "basePath": "ebooks/goethe/fuerlava",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3123,9 +1807,23 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Hermann und Dorothea",
-    "slug": "hermann-und-dorothea",
-    "basePath": "ebooks/goethe/hermann",
+    "title": "Gedichte. Ausgabe letzter Hand",
+    "slug": "gedichte-ausgabe-letzter-hand",
+    "basePath": "ebooks/goethe/gediletz",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Gedichtsammlung",
+    "slug": "gedichtsammlung",
+    "basePath": "ebooks/goethe/gedichte",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3151,6 +1849,62 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
+    "title": "Götter, Helden und Wieland",
+    "slug": "goetter-helden-und-wieland",
+    "basePath": "ebooks/goethe/wieland",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Götz von Berlichingen",
+    "slug": "goetz-von-berlichingen",
+    "basePath": "ebooks/goethe/berlich",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Helena im Mittelalter",
+    "slug": "helena-im-mittelalter",
+    "basePath": "ebooks/goethe/helena",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Hermann und Dorothea",
+    "slug": "hermann-und-dorothea",
+    "basePath": "ebooks/goethe/hermann",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
     "title": "Iphigenie auf Tauris",
     "slug": "iphigenie-auf-tauris",
     "basePath": "ebooks/goethe/iphigeni",
@@ -3165,9 +1919,37 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
+    "title": "Italienische Reise",
+    "slug": "italienische-reise",
+    "basePath": "ebooks/goethe/italien",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
     "title": "Jahrmarktsfest zu Plundersweilern",
     "slug": "jahrmarktsfest-zu-plundersweilern",
     "basePath": "ebooks/goethe/jahrplu1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Juristische Schriften 1771 – 1775",
+    "slug": "juristische-schriften-1771-1775",
+    "basePath": "ebooks/goethe/jur-schr",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3207,9 +1989,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Juristische Schriften 1771 – 1775",
-    "slug": "juristische-schriften-1771-1775",
-    "basePath": "ebooks/goethe/jur-schr",
+    "title": "Kurze Schriften zu Kunst und Literatur 1792 – 1797",
+    "slug": "kurze-schriften-zu-kunst-und-literatur-1792-1797",
+    "basePath": "ebooks/goethe/ks92-97",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3235,93 +2017,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Kurze Schriften zu Kunst und Literatur 1792 – 1797",
-    "slug": "kurze-schriften-zu-kunst-und-literatur-1792-1797",
-    "basePath": "ebooks/goethe/ks92-97",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
     "title": "Mahomet. Trauerspiel in fünf Aufzügen, nach Voltaire",
     "slug": "mahomet-trauerspiel-in-fuenf-aufzuegen-nach-voltaire",
     "basePath": "ebooks/goethe/mahovolt",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Naturwissenschaftliche Schriften. Optik und Farbenlehre, Physik",
-    "slug": "naturwissenschaftliche-schriften-optik-und-farbenlehre-physik",
-    "basePath": "ebooks/goethe/naturwi1",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Italienische Reise",
-    "slug": "italienische-reise",
-    "basePath": "ebooks/goethe/italien",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Nicht zu weit",
-    "slug": "nicht-zu-weit",
-    "basePath": "ebooks/goethe/nzuweit",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Palaeophron und Neoterpe",
-    "slug": "palaeophron-und-neoterpe",
-    "basePath": "ebooks/goethe/palaeoph",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Novelle",
-    "slug": "novelle",
-    "basePath": "ebooks/goethe/novelle",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3347,9 +2045,79 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
+    "title": "Naturwissenschaftliche Schriften. Optik und Farbenlehre, Physik",
+    "slug": "naturwissenschaftliche-schriften-optik-und-farbenlehre-physik",
+    "basePath": "ebooks/goethe/naturwi1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Nicht zu weit",
+    "slug": "nicht-zu-weit",
+    "basePath": "ebooks/goethe/nzuweit",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Novelle",
+    "slug": "novelle",
+    "basePath": "ebooks/goethe/novelle",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Palaeophron und Neoterpe",
+    "slug": "palaeophron-und-neoterpe",
+    "basePath": "ebooks/goethe/palaeoph",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
     "title": "Prometheus",
     "slug": "prometheus",
     "basePath": "ebooks/goethe/fragment",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Propyläen und Umkreis",
+    "slug": "propylaeen-und-umkreis",
+    "basePath": "ebooks/goethe/propylae",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3487,51 +2255,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Propyläen und Umkreis",
-    "slug": "propylaeen-und-umkreis",
-    "basePath": "ebooks/goethe/propylae",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
     "title": "Torquato Tasso",
     "slug": "torquato-tasso",
     "basePath": "ebooks/goethe/tasso",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Wer ist der Verräter?",
-    "slug": "wer-ist-der-verraeter",
-    "basePath": "ebooks/goethe/verraetr",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Gedichtsammlung",
-    "slug": "gedichtsammlung",
-    "basePath": "ebooks/goethe/gedichte",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3557,9 +2283,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Gedichte. Ausgabe letzter Hand",
-    "slug": "gedichte-ausgabe-letzter-hand",
-    "basePath": "ebooks/goethe/gediletz",
+    "title": "Wer ist der Verräter?",
+    "slug": "wer-ist-der-verraeter",
+    "basePath": "ebooks/goethe/verraetr",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3585,23 +2311,9 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Xenien",
-    "slug": "xenien",
-    "basePath": "ebooks/goethe/xenien",
-    "lang": "de",
-    "formats": [
-      "azw3",
-      "epub",
-      "html",
-      "mobi",
-      "pdf"
-    ]
-  },
-  {
-    "author": "Johann Wolfgang von Goethe",
-    "title": "Zur deutschen Literatur. Rezensionen",
-    "slug": "zur-deutschen-literatur-rezensionen",
-    "basePath": "ebooks/goethe/deutlite",
+    "title": "Wilhelm Meisters Lehrjahre",
+    "slug": "wilhelm-meisters-lehrjahre",
+    "basePath": "ebooks/goethe/meisterl",
     "lang": "de",
     "formats": [
       "azw3",
@@ -3641,9 +2353,4251 @@
   },
   {
     "author": "Johann Wolfgang von Goethe",
-    "title": "Wilhelm Meisters Lehrjahre",
-    "slug": "wilhelm-meisters-lehrjahre",
-    "basePath": "ebooks/goethe/meisterl",
+    "title": "Xenien",
+    "slug": "xenien",
+    "basePath": "ebooks/goethe/xenien",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Zur deutschen Literatur. Rezensionen",
+    "slug": "zur-deutschen-literatur-rezensionen",
+    "basePath": "ebooks/goethe/deutlite",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Abenteuer des Kapitän Hatteras - Erster Band",
+    "slug": "abenteuer-des-kapitaen-hatteras-erster-band",
+    "basePath": "ebooks/verne/hattera1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Abenteuer des Kapitän Hatteras - Zweiter Band",
+    "slug": "abenteuer-des-kapitaen-hatteras-zweiter-band",
+    "basePath": "ebooks/verne/hattera2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Abenteuer von drei Russen und drei Engländern in Süd-Afrika",
+    "slug": "abenteuer-von-drei-russen-und-drei-englaendern-in-sued-afrika",
+    "basePath": "ebooks/verne/3russen",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Alles in Ordnung",
+    "slug": "alles-in-ordnung",
+    "basePath": "ebooks/verne/ordnung",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Dampfhaus - 1. Band",
+    "slug": "das-dampfhaus-1-band",
+    "basePath": "ebooks/verne/dampfha1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Dampfhaus - 2. Band",
+    "slug": "das-dampfhaus-2-band",
+    "basePath": "ebooks/verne/dampfha2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Karpathenschloß",
+    "slug": "das-karpathenschloss",
+    "basePath": "ebooks/verne/karpathe",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Land der Pelze - 1. Band",
+    "slug": "das-land-der-pelze-1-band",
+    "basePath": "ebooks/verne/dasland1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Land der Pelze - 2. Band",
+    "slug": "das-land-der-pelze-2-band",
+    "basePath": "ebooks/verne/dasland2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Testament eines Excentrischen. Erster Band",
+    "slug": "das-testament-eines-excentrischen-erster-band",
+    "basePath": "ebooks/verne/excentr1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Das Testament eines Excentrischen. Zweiter Band",
+    "slug": "das-testament-eines-excentrischen-zweiter-band",
+    "basePath": "ebooks/verne/excentr2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Archipel in Flammen",
+    "slug": "der-archipel-in-flammen",
+    "basePath": "ebooks/verne/archipel",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Chancellor",
+    "slug": "der-chancellor",
+    "basePath": "ebooks/verne/chancell",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Courier des Czaar - Erster Band",
+    "slug": "der-courier-des-czaar-erster-band",
+    "basePath": "ebooks/verne/courier1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Courier des Czaar - Zweiter Band",
+    "slug": "der-courier-des-czaar-zweiter-band",
+    "basePath": "ebooks/verne/courier2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Einbruch des Meeres",
+    "slug": "der-einbruch-des-meeres",
+    "basePath": "ebooks/verne/einbruch",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der grüne Strahl",
+    "slug": "der-gruene-strahl",
+    "basePath": "ebooks/verne/gruestra",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Leuchtturm am Ende der Welt",
+    "slug": "der-leuchtturm-am-ende-der-welt",
+    "basePath": "ebooks/verne/leuchttu",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Südstern",
+    "slug": "der-suedstern",
+    "basePath": "ebooks/verne/suedster",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Triumph des 19. Jahrhunderts. Erster Band.",
+    "slug": "der-triumph-des-19-jahrhunderts-erster-band",
+    "basePath": "ebooks/verne/19jahr-1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Der Triumph des 19. Jahrhunderts. Zweiter Band.",
+    "slug": "der-triumph-des-19-jahrhunderts-zweiter-band",
+    "basePath": "ebooks/verne/19jahr-2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die 500 Millionen der Begum",
+    "slug": "die-500-millionen-der-begum",
+    "basePath": "ebooks/verne/begum",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Drangsale eines Chinesen in China",
+    "slug": "die-drangsale-eines-chinesen-in-china",
+    "basePath": "ebooks/verne/chinese",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Eissphinx. Erster Band",
+    "slug": "die-eissphinx-erster-band",
+    "basePath": "ebooks/verne/eisspin1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Eissphinx. Zweiter Band",
+    "slug": "die-eissphinx-zweiter-band",
+    "basePath": "ebooks/verne/eisspin2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Entdeckung der Erde. Erster Band",
+    "slug": "die-entdeckung-der-erde-erster-band",
+    "basePath": "ebooks/verne/enterde1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Entdeckung der Erde. Zweiter Band",
+    "slug": "die-entdeckung-der-erde-zweiter-band",
+    "basePath": "ebooks/verne/enterde2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die geheimnißvolle Insel. Dritter Theil. Das Geheimniß",
+    "slug": "die-geheimnissvolle-insel-dritter-theil-das-geheimniss",
+    "basePath": "ebooks/verne/insel3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die geheimnißvolle Insel. Erster Theil. Die Schiffbrüchigen des Luftmeers",
+    "slug": "die-geheimnissvolle-insel-erster-theil-die-schiffbruechigen-des-luftmeers",
+    "basePath": "ebooks/verne/insel",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die geheimnißvolle Insel. Zweiter Theil. Der Verlassene",
+    "slug": "die-geheimnissvolle-insel-zweiter-theil-der-verlassene",
+    "basePath": "ebooks/verne/insel2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die großen Seefahrer des 18. Jahrhunderts - 1. Band",
+    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-1-band",
+    "basePath": "ebooks/verne/seefahr",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die großen Seefahrer des 18. Jahrhunderts - 2. Band",
+    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-2-band",
+    "basePath": "ebooks/verne/seefahr2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Jagd nach dem Meteore",
+    "slug": "die-jagd-nach-dem-meteore",
+    "basePath": "ebooks/verne/meteor",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Jangada. Erster Band",
+    "slug": "die-jangada-erster-band",
+    "basePath": "ebooks/verne/jangada1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Jangada. Zweiter Band",
+    "slug": "die-jangada-zweiter-band",
+    "basePath": "ebooks/verne/jangada2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Kinder des Kapitän Grant, Band 1",
+    "slug": "die-kinder-des-kapitaen-grant-band-1",
+    "basePath": "ebooks/verne/grant1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Kinder des Kapitän Grant, Band 2",
+    "slug": "die-kinder-des-kapitaen-grant-band-2",
+    "basePath": "ebooks/verne/grant2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Kinder des Kapitän Grant, Band 3",
+    "slug": "die-kinder-des-kapitaen-grant-band-3",
+    "basePath": "ebooks/verne/grant3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Leiden eines Chinesen in China",
+    "slug": "die-leiden-eines-chinesen-in-china",
+    "basePath": "ebooks/verne/chinese1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Meuterer von der »Bounty«",
+    "slug": "die-meuterer-von-der-bounty",
+    "basePath": "ebooks/verne/bounty",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schiffbrüchigen des »Jonathan«. Dritter Band",
+    "slug": "die-schiffbruechigen-des-jonathan-dritter-band",
+    "basePath": "ebooks/verne/jonatha3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schiffbrüchigen des »Jonathan«. Erster Band",
+    "slug": "die-schiffbruechigen-des-jonathan-erster-band",
+    "basePath": "ebooks/verne/jonatha1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schiffbrüchigen des »Jonathan«. Zweiter Band",
+    "slug": "die-schiffbruechigen-des-jonathan-zweiter-band",
+    "basePath": "ebooks/verne/jonatha2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Die Schule der Robinsons",
+    "slug": "die-schule-der-robinsons",
+    "basePath": "ebooks/verne/robinson",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Ein Drama in den Lüften",
+    "slug": "ein-drama-in-den-lueften",
+    "basePath": "ebooks/verne/dramluef",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Ein Drama in Mexico",
+    "slug": "ein-drama-in-mexico",
+    "basePath": "ebooks/verne/drammexi",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Ein Lotterie-Los",
+    "slug": "ein-lotterie-los",
+    "basePath": "ebooks/verne/lotterie",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Eine Idee des Doctor Ox",
+    "slug": "eine-idee-des-doctor-ox",
+    "basePath": "ebooks/verne/doctorox",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Eine schwimmende Stadt. Die Blockadebrecher",
+    "slug": "eine-schwimmende-stadt-die-blockadebrecher",
+    "basePath": "ebooks/verne/schwstad",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Eine Überwinterung im Eise",
+    "slug": "eine-ueberwinterung-im-eise",
+    "basePath": "ebooks/verne/ueberwin",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Fünf Wochen im Ballon",
+    "slug": "fuenf-wochen-im-ballon",
+    "basePath": "ebooks/verne/ballon",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Herr der Welt",
+    "slug": "herr-der-welt",
+    "basePath": "ebooks/verne/herrwelt",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Kein Durcheinander",
+    "slug": "kein-durcheinander",
+    "basePath": "ebooks/verne/durchein",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Keraban der Starrkopf. Erster Band",
+    "slug": "keraban-der-starrkopf-erster-band",
+    "basePath": "ebooks/verne/keraban1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Keraban der Starrkopf. Zweiter Band",
+    "slug": "keraban-der-starrkopf-zweiter-band",
+    "basePath": "ebooks/verne/keraban2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Martin Paz",
+    "slug": "martin-paz",
+    "basePath": "ebooks/verne/martinpa",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mathias Sandorf. Dritter Band",
+    "slug": "mathias-sandorf-dritter-band",
+    "basePath": "ebooks/verne/sandorf3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mathias Sandorf. Erster Band",
+    "slug": "mathias-sandorf-erster-band",
+    "basePath": "ebooks/verne/sandorf1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mathias Sandorf. Zweiter Band",
+    "slug": "mathias-sandorf-zweiter-band",
+    "basePath": "ebooks/verne/sandorf2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Meister Antifer's wunderbare Abenteuer. Erster Band",
+    "slug": "meister-antifer-s-wunderbare-abenteuer-erster-band",
+    "basePath": "ebooks/verne/antifer1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Meister Antifer's wunderbare Abenteuer. Zweiter Band",
+    "slug": "meister-antifer-s-wunderbare-abenteuer-zweiter-band",
+    "basePath": "ebooks/verne/antifer2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Meister Zacharius",
+    "slug": "meister-zacharius",
+    "basePath": "ebooks/verne/zachariu",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mistreß Branican. Erster Theil",
+    "slug": "mistress-branican-erster-theil",
+    "basePath": "ebooks/verne/mistres1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Mistreß Branican. Zweiter Theil",
+    "slug": "mistress-branican-zweiter-theil",
+    "basePath": "ebooks/verne/mistres2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Nord gegen Süd. Erster Band",
+    "slug": "nord-gegen-sued-erster-band",
+    "basePath": "ebooks/verne/nordsue1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Nord gegen Süd. Zweiter Band",
+    "slug": "nord-gegen-sued-zweiter-band",
+    "basePath": "ebooks/verne/nordsue2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise durch die Sonnenwelt, Band 1",
+    "slug": "reise-durch-die-sonnenwelt-band-1",
+    "basePath": "ebooks/verne/sonnenw1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise durch die Sonnenwelt, Band 2",
+    "slug": "reise-durch-die-sonnenwelt-band-2",
+    "basePath": "ebooks/verne/sonnenw2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise nach dem Mittelpunkt der Erde",
+    "slug": "reise-nach-dem-mittelpunkt-der-erde",
+    "basePath": "ebooks/verne/mittelpu",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise um den Mond",
+    "slug": "reise-um-den-mond",
+    "basePath": "ebooks/verne/ummond",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Reise um die Erde in 80 Tagen",
+    "slug": "reise-um-die-erde-in-80-tagen",
+    "basePath": "ebooks/verne/80tage",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Robur der Sieger",
+    "slug": "robur-der-sieger",
+    "basePath": "ebooks/verne/robur",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Schwarz-Indien",
+    "slug": "schwarz-indien",
+    "basePath": "ebooks/verne/schwindi",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Von der Erde zum Mond",
+    "slug": "von-der-erde-zum-mond",
+    "basePath": "ebooks/verne/erdemond",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Zwanzigtausend Meilen unter'm Meer - Erster Band",
+    "slug": "zwanzigtausend-meilen-unter-m-meer-erster-band",
+    "basePath": "ebooks/verne/zwanzig1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Zwanzigtausend Meilen unter'm Meer - Zweiter Band",
+    "slug": "zwanzigtausend-meilen-unter-m-meer-zweiter-band",
+    "basePath": "ebooks/verne/zwanzig2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Zwei Jahre Ferien. Erster Band",
+    "slug": "zwei-jahre-ferien-erster-band",
+    "basePath": "ebooks/verne/ferien1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Jules Verne",
+    "title": "Zwei Jahre Ferien. Zweiter Band",
+    "slug": "zwei-jahre-ferien-zweiter-band",
+    "basePath": "ebooks/verne/ferien2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Am Jenseits",
+    "slug": "am-jenseits",
+    "basePath": "ebooks/may/jenseits",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Am Rio de la Plata",
+    "slug": "am-rio-de-la-plata",
+    "basePath": "ebooks/may/amrio",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Am stillen Ocean",
+    "slug": "am-stillen-ocean",
+    "basePath": "ebooks/may/amstille",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Am Stillen Ozean",
+    "slug": "am-stillen-ozean",
+    "basePath": "ebooks/may/stilloze",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Ardistan und Dschinnistan. Band I",
+    "slug": "ardistan-und-dschinnistan-band-i",
+    "basePath": "ebooks/may/ardis-1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Ardistan und Dschinnistan. Band II",
+    "slug": "ardistan-und-dschinnistan-band-ii",
+    "basePath": "ebooks/may/ardis-2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Auf fremden Pfaden",
+    "slug": "auf-fremden-pfaden",
+    "basePath": "ebooks/may/frmdpfad",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Babel und Bibel",
+    "slug": "babel-und-bibel",
+    "basePath": "ebooks/may/abelbabe",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Das Buschgespenst",
+    "slug": "das-buschgespenst",
+    "basePath": "ebooks/may/buschges",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Das Vermächtnis des Inka",
+    "slug": "das-vermaechtnis-des-inka",
+    "basePath": "ebooks/may/inka",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Das Zauberwasser und andere Erzählungen",
+    "slug": "das-zauberwasser-und-andere-erzaehlungen",
+    "basePath": "ebooks/may/zauberwa",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der beiden Quitzows letzte Fahrten",
+    "slug": "der-beiden-quitzows-letzte-fahrten",
+    "basePath": "ebooks/may/quitzows",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der blaurote Methusalem",
+    "slug": "der-blaurote-methusalem",
+    "basePath": "ebooks/may/methusal",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Engel der Verbannten 1",
+    "slug": "der-engel-der-verbannten-1",
+    "basePath": "ebooks/may/deuther5",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Engel der Verbannten/Auf der Flucht",
+    "slug": "der-engel-der-verbannten-auf-der-flucht",
+    "basePath": "ebooks/may/deuther6",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Fürst der Bleichgesichter",
+    "slug": "der-fuerst-der-bleichgesichter",
+    "basePath": "ebooks/may/deuther3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Mir von Dschinnistan",
+    "slug": "der-mir-von-dschinnistan",
+    "basePath": "ebooks/may/ardista1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Schatz der Mixtekas",
+    "slug": "der-schatz-der-mixtekas",
+    "basePath": "ebooks/may/waldroe2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Schatz im Silbersee",
+    "slug": "der-schatz-im-silbersee",
+    "basePath": "ebooks/may/silbsee",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Schut",
+    "slug": "der-schut",
+    "basePath": "ebooks/may/schut",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der schwarze Mustang",
+    "slug": "der-schwarze-mustang",
+    "basePath": "ebooks/may/mustang",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Scout",
+    "slug": "der-scout",
+    "basePath": "ebooks/may/scout",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Sohn des Bärenjägers",
+    "slug": "der-sohn-des-baerenjaegers",
+    "basePath": "ebooks/may/baerenj",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Weg zum Glück. Dritter Band",
+    "slug": "der-weg-zum-glueck-dritter-band",
+    "basePath": "ebooks/may/wegglue3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Weg zum Glück. Erster Band",
+    "slug": "der-weg-zum-glueck-erster-band",
+    "basePath": "ebooks/may/wegglue1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Weg zum Glück. Fünfter Band",
+    "slug": "der-weg-zum-glueck-fuenfter-band",
+    "basePath": "ebooks/may/wegglue5",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Weg zum Glück. Sechster Band",
+    "slug": "der-weg-zum-glueck-sechster-band",
+    "basePath": "ebooks/may/wegglue6",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Weg zum Glück. Vierter Band",
+    "slug": "der-weg-zum-glueck-vierter-band",
+    "basePath": "ebooks/may/wegglue4",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Weg zum Glück. Zweiter Band",
+    "slug": "der-weg-zum-glueck-zweiter-band",
+    "basePath": "ebooks/may/wegglue2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Der Ölprinz",
+    "slug": "der-oelprinz",
+    "basePath": "ebooks/may/oelprinz",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Abenteuer des schwarzen Gerard, Teil 1",
+    "slug": "die-abenteuer-des-schwarzen-gerard-teil-1",
+    "basePath": "ebooks/may/waldro42",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Abenteuer des schwarzen Gerard, Teil 2",
+    "slug": "die-abenteuer-des-schwarzen-gerard-teil-2",
+    "basePath": "ebooks/may/waldro43",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Fastnachtsnarren",
+    "slug": "die-fastnachtsnarren",
+    "basePath": "ebooks/may/narren",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Juweleninsel",
+    "slug": "die-juweleninsel",
+    "basePath": "ebooks/may/juweleni",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Königin der Wüste",
+    "slug": "die-koenigin-der-wueste",
+    "basePath": "ebooks/may/deuther2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Liebe des Ulanen. Teil 1",
+    "slug": "die-liebe-des-ulanen-teil-1",
+    "basePath": "ebooks/may/ulan01",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Liebe des Ulanen. Teil 2",
+    "slug": "die-liebe-des-ulanen-teil-2",
+    "basePath": "ebooks/may/ulan02",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Liebe des Ulanen. Teil 3",
+    "slug": "die-liebe-des-ulanen-teil-3",
+    "basePath": "ebooks/may/ulan03",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Liebe des Ulanen. Teil 4",
+    "slug": "die-liebe-des-ulanen-teil-4",
+    "basePath": "ebooks/may/ulan04",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Liebe des Ulanen. Teil 5",
+    "slug": "die-liebe-des-ulanen-teil-5",
+    "basePath": "ebooks/may/ulan05",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Rose von Ernstthal",
+    "slug": "die-rose-von-ernstthal",
+    "basePath": "ebooks/may/rose",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Sklavenkarawane",
+    "slug": "die-sklavenkarawane",
+    "basePath": "ebooks/may/sklaven",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Die Tochter des Granden",
+    "slug": "die-tochter-des-granden",
+    "basePath": "ebooks/may/waldroe1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Durch das Land der Skipetaren",
+    "slug": "durch-das-land-der-skipetaren",
+    "basePath": "ebooks/may/skipetar",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Durch die Wüste",
+    "slug": "durch-die-wueste",
+    "basePath": "ebooks/may/wueste",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Durchs wilde Kurdistan",
+    "slug": "durchs-wilde-kurdistan",
+    "basePath": "ebooks/may/kurdista",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Ein Abenteuer auf Ceylon",
+    "slug": "ein-abenteuer-auf-ceylon",
+    "basePath": "ebooks/may/ceylon",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Ein Gardeleutnant",
+    "slug": "ein-gardeleutnant",
+    "basePath": "ebooks/may/waldro41",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Ein Stücklein vom alten Dessauer",
+    "slug": "ein-stuecklein-vom-alten-dessauer",
+    "basePath": "ebooks/may/desskurz",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Eine deutsche Sultana",
+    "slug": "eine-deutsche-sultana",
+    "basePath": "ebooks/may/deuther1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "El Sendador, Teil 1",
+    "slug": "el-sendador-teil-1",
+    "basePath": "ebooks/may/sendado1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "El Sendador, Teil 2",
+    "slug": "el-sendador-teil-2",
+    "basePath": "ebooks/may/sendado2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Erkämpftes Glück, Teil 1",
+    "slug": "erkaempftes-glueck-teil-1",
+    "basePath": "ebooks/may/waldroe5",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Erkämpftes Glück, Teil 2",
+    "slug": "erkaempftes-glueck-teil-2",
+    "basePath": "ebooks/may/waldroe6",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Erkämpftes Glück, Teil 3",
+    "slug": "erkaempftes-glueck-teil-3",
+    "basePath": "ebooks/may/waldroe7",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Erzgebirgische Dorfgeschichten",
+    "slug": "erzgebirgische-dorfgeschichten",
+    "basePath": "ebooks/may/erzgebir",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Freuden und Leiden eines Vielgelesenen",
+    "slug": "freuden-und-leiden-eines-vielgelesenen",
+    "basePath": "ebooks/may/freuden",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Halbblut und andere Erzählungen",
+    "slug": "halbblut-und-andere-erzaehlungen",
+    "basePath": "ebooks/may/halbblut",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Himmelsgedanken",
+    "slug": "himmelsgedanken",
+    "basePath": "ebooks/may/gedichte",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Lande des Mahdi I",
+    "slug": "im-lande-des-mahdi-i",
+    "basePath": "ebooks/may/mahdi1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Lande des Mahdi II",
+    "slug": "im-lande-des-mahdi-ii",
+    "basePath": "ebooks/may/mahdi2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Lande des Mahdi III",
+    "slug": "im-lande-des-mahdi-iii",
+    "basePath": "ebooks/may/mahdi3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Reich des silbernen Löwen I",
+    "slug": "im-reich-des-silbernen-loewen-i",
+    "basePath": "ebooks/may/siloewe1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Reich des silbernen Löwen II",
+    "slug": "im-reich-des-silbernen-loewen-ii",
+    "basePath": "ebooks/may/siloewe2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Reich des silbernen Löwen III",
+    "slug": "im-reich-des-silbernen-loewen-iii",
+    "basePath": "ebooks/may/siloewe3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Reich des silbernen Löwen IV",
+    "slug": "im-reich-des-silbernen-loewen-iv",
+    "basePath": "ebooks/may/siloewe4",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Im Thale des Todes",
+    "slug": "im-thale-des-todes",
+    "basePath": "ebooks/may/deuther4",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "In den Cordilleren",
+    "slug": "in-den-cordilleren",
+    "basePath": "ebooks/may/cordill",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "In den Schluchten des Balkan",
+    "slug": "in-den-schluchten-des-balkan",
+    "basePath": "ebooks/may/balkan",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Kapitän Kaiman und andere Erzählungen",
+    "slug": "kapitaen-kaiman-und-andere-erzaehlungen",
+    "basePath": "ebooks/may/kaiman",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Khong-Kheou, das Ehrenwort",
+    "slug": "khong-kheou-das-ehrenwort",
+    "basePath": "ebooks/may/kong",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Matavese, der Fürst des Felsens, Teil 1",
+    "slug": "matavese-der-fuerst-des-felsens-teil-1",
+    "basePath": "ebooks/may/waldro31",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Matavese, der Fürst des Felsens, Teil 2",
+    "slug": "matavese-der-fuerst-des-felsens-teil-2",
+    "basePath": "ebooks/may/waldro32",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Mein Leben und Streben",
+    "slug": "mein-leben-und-streben",
+    "basePath": "ebooks/may/lebstreb",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Old Firehand",
+    "slug": "old-firehand",
+    "basePath": "ebooks/may/firehand",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Old Surehand I",
+    "slug": "old-surehand-i",
+    "basePath": "ebooks/may/surehan1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Old Surehand II",
+    "slug": "old-surehand-ii",
+    "basePath": "ebooks/may/surehan2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Old Surehand III",
+    "slug": "old-surehand-iii",
+    "basePath": "ebooks/may/surehan3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Orangen und Datteln",
+    "slug": "orangen-und-datteln",
+    "basePath": "ebooks/may/orangen",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Satan und Ischariot I",
+    "slug": "satan-und-ischariot-i",
+    "basePath": "ebooks/may/satan1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Satan und Ischariot II",
+    "slug": "satan-und-ischariot-ii",
+    "basePath": "ebooks/may/satan2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Satan und Ischariot III",
+    "slug": "satan-und-ischariot-iii",
+    "basePath": "ebooks/may/satan3",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Schloß Rodriganda",
+    "slug": "schloss-rodriganda",
+    "basePath": "ebooks/may/rodrigan",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Sinnsprüche",
+    "slug": "sinnsprueche",
+    "basePath": "ebooks/may/aphorism",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Szepter und Hammer",
+    "slug": "szepter-und-hammer",
+    "basePath": "ebooks/may/scepter",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Und Friede auf Erden",
+    "slug": "und-friede-auf-erden",
+    "basePath": "ebooks/may/friede",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Von Bagdad nach Stambul",
+    "slug": "von-bagdad-nach-stambul",
+    "basePath": "ebooks/may/bagdad",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Weihnacht!",
+    "slug": "weihnacht",
+    "basePath": "ebooks/may/weihnach",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Winnetou I",
+    "slug": "winnetou-i",
+    "basePath": "ebooks/may/winnet1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Winnetou II",
+    "slug": "winnetou-ii",
+    "basePath": "ebooks/may/winnet2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Winnetou III",
+    "slug": "winnetou-iii",
+    "basePath": "ebooks/may/winnet3",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Winnetou IV",
+    "slug": "winnetou-iv",
+    "basePath": "ebooks/may/winnet4",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Karl May",
+    "title": "Winnetous Erben",
+    "slug": "winnetous-erben",
+    "basePath": "ebooks/may/winnerbe",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Anna Karenina, Band 1",
+    "slug": "anna-karenina-band-1",
+    "basePath": "ebooks/tolstoi/annakar1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Anna Karenina, Band 2",
+    "slug": "anna-karenina-band-2",
+    "basePath": "ebooks/tolstoi/annakar2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Auferstehung",
+    "slug": "auferstehung",
+    "basePath": "ebooks/tolstoi/aufhartz",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Ausgewählte Erzählungen für die Jugend",
+    "slug": "ausgewaehlte-erzaehlungen-fuer-die-jugend",
+    "basePath": "ebooks/tolstoi/erzjugen",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Band 1",
+    "slug": "band-1",
+    "basePath": "ebooks/tolstoi/auferst1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Band 2",
+    "slug": "band-2",
+    "basePath": "ebooks/tolstoi/auferst2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Band 3",
+    "slug": "band-3",
+    "basePath": "ebooks/tolstoi/auferst3",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Band 4",
+    "slug": "band-4",
+    "basePath": "ebooks/tolstoi/auferst4",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Chadschi Murat",
+    "slug": "chadschi-murat",
+    "basePath": "ebooks/tolstoi/chadschi",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Das Licht leuchtet in der Finsternis",
+    "slug": "das-licht-leuchtet-in-der-finsternis",
+    "basePath": "ebooks/tolstoi/licht",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Der Gefangene im Kaukasus und andere russische Soldatengeschichten",
+    "slug": "der-gefangene-im-kaukasus-und-andere-russische-soldatengeschichten",
+    "basePath": "ebooks/tolstoi/gefkauka",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Der lebende Leichnam",
+    "slug": "der-lebende-leichnam",
+    "basePath": "ebooks/tolstoi/lebleich",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Der Morgen des Gutsherrn/Die Dekabristen/Kriegsbilder",
+    "slug": "der-morgen-des-gutsherrn-die-dekabristen-kriegsbilder",
+    "basePath": "ebooks/tolstoi/gutsherr",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Die Kosaken. Erzählung aus dem Kaukasus",
+    "slug": "die-kosaken-erzaehlung-aus-dem-kaukasus",
+    "basePath": "ebooks/tolstoi/kosaken",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Die Kreutzersonate",
+    "slug": "die-kreutzersonate",
+    "basePath": "ebooks/tolstoi/kreutzer",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Drei Fragen",
+    "slug": "drei-fragen",
+    "basePath": "ebooks/tolstoi/dreifrag",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Drittes Buch",
+    "slug": "drittes-buch",
+    "basePath": "ebooks/tolstoi/aufscho3",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Erstes Buch",
+    "slug": "erstes-buch",
+    "basePath": "ebooks/tolstoi/aufscho1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Familienglück",
+    "slug": "familienglueck",
+    "basePath": "ebooks/tolstoi/familien",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Glück der Ehe",
+    "slug": "glueck-der-ehe",
+    "basePath": "ebooks/tolstoi/gluecehe",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Herr und Knecht/Iljaß",
+    "slug": "herr-und-knecht-iljass",
+    "basePath": "ebooks/tolstoi/herrknec",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Im Schneesturm",
+    "slug": "im-schneesturm",
+    "basePath": "ebooks/tolstoi/schneest",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Jünglingsjahre",
+    "slug": "juenglingsjahre",
+    "basePath": "ebooks/tolstoi/juenglin",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Kindheit und Knabenalter",
+    "slug": "kindheit-und-knabenalter",
+    "basePath": "ebooks/tolstoi/kindheit",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Krieg und Frieden",
+    "slug": "krieg-und-frieden",
+    "basePath": "ebooks/tolstoi/kriegfri",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "König Assarhaddon",
+    "slug": "koenig-assarhaddon",
+    "basePath": "ebooks/tolstoi/koenigas",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Luzern - Albert",
+    "slug": "luzern-albert",
+    "basePath": "ebooks/tolstoi/luzern",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Meine ersten Erinnerungen sowie verschiedene kleine Schriften",
+    "slug": "meine-ersten-erinnerungen-sowie-verschiedene-kleine-schriften",
+    "basePath": "ebooks/tolstoi/erinneru",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "P. Ssergij",
+    "slug": "p-ssergij",
+    "basePath": "ebooks/tolstoi/ssergij",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Polikuschka",
+    "slug": "polikuschka",
+    "basePath": "ebooks/tolstoi/polikusc",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Sewastopol",
+    "slug": "sewastopol",
+    "basePath": "ebooks/tolstoi/sewastop",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Volkserzählungen",
+    "slug": "volkserzaehlungen",
+    "basePath": "ebooks/tolstoi/volkserz",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Volkserzählungen, Märchen und Skizzen",
+    "slug": "volkserzaehlungen-maerchen-und-skizzen",
+    "basePath": "ebooks/tolstoi/volkmaer",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Worin besteht mein Glaube?",
+    "slug": "worin-besteht-mein-glaube",
+    "basePath": "ebooks/tolstoi/glaube",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Lew Tolstoi",
+    "title": "Zweites Buch",
+    "slug": "zweites-buch",
+    "basePath": "ebooks/tolstoi/aufscho2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Auszüge aus Adams Tagebuch",
+    "slug": "auszuege-aus-adams-tagebuch",
+    "basePath": "ebooks/twain/adamstag",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Besuch eines Interviewers",
+    "slug": "besuch-eines-interviewers",
+    "basePath": "ebooks/twain/besuch",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Bummel durch Europa",
+    "slug": "bummel-durch-europa",
+    "basePath": "ebooks/twain/bummel",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Der amerikanische Prätendent",
+    "slug": "der-amerikanische-praetendent",
+    "basePath": "ebooks/twain/amerprae",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Deutsche und andere Geschichten",
+    "slug": "deutsche-und-andere-geschichten",
+    "basePath": "ebooks/twain/dt-gesc",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Die 1.000.000 Pfundnote und andere humoristische Erzählungen und Skizzen",
+    "slug": "die-1-000-000-pfundnote-und-andere-humoristische-erzaehlungen-und-skizzen",
+    "basePath": "ebooks/twain/millionp",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Die Geschichte eines Invaliden",
+    "slug": "die-geschichte-eines-invaliden",
+    "basePath": "ebooks/twain/inval-de",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Die Schrecken der deutschen Sprache",
+    "slug": "die-schrecken-der-deutschen-sprache",
+    "basePath": "ebooks/twain/schreckn",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Eine grausame, fürchterliche Liebesgeschichte aus dem Mittelalter",
+    "slug": "eine-grausame-fuerchterliche-liebesgeschichte-aus-dem-mittelalter",
+    "basePath": "ebooks/twain/romance",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Eine Hundegeschichte",
+    "slug": "eine-hundegeschichte",
+    "basePath": "ebooks/twain/hundege1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Eine Pferdegeschichte",
+    "slug": "eine-pferdegeschichte",
+    "basePath": "ebooks/twain/pferdege",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Eine skurrile Autobiografie",
+    "slug": "eine-skurrile-autobiografie",
+    "basePath": "ebooks/twain/autobio",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Huckleberry Finns Abenteuer und Fahrten",
+    "slug": "huckleberry-finns-abenteuer-und-fahrten",
+    "basePath": "ebooks/twain/hucklebe",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Im Gold- und Silberland",
+    "slug": "im-gold-und-silberland",
+    "basePath": "ebooks/twain/goldland",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Karneval des Verbrechens in Connecticut",
+    "slug": "karneval-des-verbrechens-in-connecticut",
+    "basePath": "ebooks/twain/carni-de",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Leben auf dem Mississippi / Nach dem fernen Westen",
+    "slug": "leben-auf-dem-mississippi-nach-dem-fernen-westen",
+    "basePath": "ebooks/twain/mississ1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Meine Reise um die Welt – Erste Abteilung",
+    "slug": "meine-reise-um-die-welt-erste-abteilung",
+    "basePath": "ebooks/twain/weltrei1",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Meine Reise um die Welt – Zweite Abteilung",
+    "slug": "meine-reise-um-die-welt-zweite-abteilung",
+    "basePath": "ebooks/twain/weltrei2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Prinz und Bettler",
+    "slug": "prinz-und-bettler",
+    "basePath": "ebooks/twain/bettprin",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Querkopf Wilson",
+    "slug": "querkopf-wilson",
+    "basePath": "ebooks/twain/querkopf",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Short Stories (Englisch)",
+    "slug": "short-stories-englisch",
+    "basePath": "ebooks/twain/engl-erz",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Skizzenbuch",
+    "slug": "skizzenbuch",
+    "basePath": "ebooks/twain/skizbuch",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Tom der kleine Detektiv",
+    "slug": "tom-der-kleine-detektiv",
+    "basePath": "ebooks/twain/tomdetek",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Tom Sawyers Abenteuer",
+    "slug": "tom-sawyers-abenteuer",
+    "basePath": "ebooks/twain/tomsaw-2",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Tom Sawyers Abenteuer und Streiche",
+    "slug": "tom-sawyers-abenteuer-und-streiche",
+    "basePath": "ebooks/twain/tomsawye",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Unterwegs und Daheim",
+    "slug": "unterwegs-und-daheim",
+    "basePath": "ebooks/twain/unterweg",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Mark Twain",
+    "title": "Von Adam bis Vanderbilt",
+    "slug": "von-adam-bis-vanderbilt",
+    "basePath": "ebooks/twain/adam-van",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Catriona",
+    "slug": "catriona",
+    "basePath": "ebooks/stevenso/catriona",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Das Flaschenteufelchen",
+    "slug": "das-flaschenteufelchen",
+    "basePath": "ebooks/stevenso/flaschen",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Das Flaschenteufelchen / The Bottle Imp",
+    "slug": "das-flaschenteufelchen-the-bottle-imp",
+    "basePath": "ebooks/stevenso/2flasche",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Diamant des Radschah",
+    "slug": "der-diamant-des-radschah",
+    "basePath": "ebooks/stevenso/diamant2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Junker von Ballantrae",
+    "slug": "der-junker-von-ballantrae",
+    "basePath": "ebooks/stevenso/ballantr",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Leichenräuber",
+    "slug": "der-leichenraeuber",
+    "basePath": "ebooks/stevenso/leichenr",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Schatz von Franchard",
+    "slug": "der-schatz-von-franchard",
+    "basePath": "ebooks/stevenso/franchar",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Selbstmordklub",
+    "slug": "der-selbstmordklub",
+    "basePath": "ebooks/stevenso/selbstmo",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der seltsame Fall des Doktor Jekyll und des Herrn Hyde",
+    "slug": "der-seltsame-fall-des-doktor-jekyll-und-des-herrn-hyde",
+    "basePath": "ebooks/stevenso/jekyhyde",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Strand von Falesa",
+    "slug": "der-strand-von-falesa",
+    "basePath": "ebooks/stevenso/falesa",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Der Strand von Falesa / The Beach of Falesa",
+    "slug": "der-strand-von-falesa-the-beach-of-falesa",
+    "basePath": "ebooks/stevenso/2falesa",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Des Rajahs Diamant",
+    "slug": "des-rajahs-diamant",
+    "basePath": "ebooks/stevenso/rajah",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die Geschichte einer Lüge",
+    "slug": "die-geschichte-einer-luege",
+    "basePath": "ebooks/stevenso/luege",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die Herren von Hermiston",
+    "slug": "die-herren-von-hermiston",
+    "basePath": "ebooks/stevenso/hermisto",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die Insel der Stimmen",
+    "slug": "die-insel-der-stimmen",
+    "basePath": "ebooks/stevenso/stimme1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die krumme Janet",
+    "slug": "die-krumme-janet",
+    "basePath": "ebooks/stevenso/krujanet",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die Schatzinsel",
+    "slug": "die-schatzinsel",
+    "basePath": "ebooks/stevenso/schatzin",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die Stimmeninsel",
+    "slug": "die-stimmeninsel",
+    "basePath": "ebooks/stevenso/stimmen",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die Stimmeninsel / The Isle of Voices",
+    "slug": "die-stimmeninsel-the-isle-of-voices",
+    "basePath": "ebooks/stevenso/2stimme",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Die tollen Männer",
+    "slug": "die-tollen-maenner",
+    "basePath": "ebooks/stevenso/tollmaen",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Eines Dichters Nachtquartier",
+    "slug": "eines-dichters-nachtquartier",
+    "basePath": "ebooks/stevenso/dichter",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Entführt",
+    "slug": "entfuehrt",
+    "basePath": "ebooks/stevenso/entfuehr",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "In der Südsee I",
+    "slug": "in-der-suedsee-i",
+    "basePath": "ebooks/stevenso/suedsee1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "In der Südsee II",
+    "slug": "in-der-suedsee-ii",
+    "basePath": "ebooks/stevenso/suedsee2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "John Nicholson, der Pechvogel/Das Holzhaus in den Dünen",
+    "slug": "john-nicholson-der-pechvogel-das-holzhaus-in-den-duenen",
+    "basePath": "ebooks/stevenso/johnnich",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Markheim",
+    "slug": "markheim",
+    "basePath": "ebooks/stevenso/markheim",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Quartier für die Nacht",
+    "slug": "quartier-fuer-die-nacht",
+    "basePath": "ebooks/stevenso/quartier",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Sonderbare Geschichte von Dr. Jekyll und Herrn Hyde",
+    "slug": "sonderbare-geschichte-von-dr-jekyll-und-herrn-hyde",
+    "basePath": "ebooks/stevenso/jekyll2",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Robert Louis Stevenson",
+    "title": "Will von der Mühle",
+    "slug": "will-von-der-muehle",
+    "basePath": "ebooks/stevenso/willmue1",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Amerigo. Die Geschichte eines historischen Irrtums",
+    "slug": "amerigo-die-geschichte-eines-historischen-irrtums",
+    "basePath": "ebooks/zweig/amerigo",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Amok",
+    "slug": "amok",
+    "basePath": "ebooks/zweig/amok",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Brasilien",
+    "slug": "brasilien",
+    "basePath": "ebooks/zweig/brasil",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Briefe an Schriftsteller",
+    "slug": "briefe-an-schriftsteller",
+    "basePath": "ebooks/zweig/briliter",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Castellio gegen Calvin oder Ein Gewissen gegen die Gewalt",
+    "slug": "castellio-gegen-calvin-oder-ein-gewissen-gegen-die-gewalt",
+    "basePath": "ebooks/zweig/calvin",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Der Kampf mit dem Dämon",
+    "slug": "der-kampf-mit-dem-daemon",
+    "basePath": "ebooks/zweig/kampfdae",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Der Stern über dem Walde",
+    "slug": "der-stern-ueber-dem-walde",
+    "basePath": "ebooks/zweig/sternwal",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Der Zwang",
+    "slug": "der-zwang",
+    "basePath": "ebooks/zweig/zwang",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die Augen des ewigen Bruders",
+    "slug": "die-augen-des-ewigen-bruders",
+    "basePath": "ebooks/zweig/augen",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die frühen Kränze",
+    "slug": "die-fruehen-kraenze",
+    "basePath": "ebooks/zweig/fruehkra",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die Heilung durch den Geist",
+    "slug": "die-heilung-durch-den-geist",
+    "basePath": "ebooks/zweig/heigeist",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die Liebe der Erika Ewald",
+    "slug": "die-liebe-der-erika-ewald",
+    "basePath": "ebooks/zweig/erikaew",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die unsichtbare Sammlung",
+    "slug": "die-unsichtbare-sammlung",
+    "basePath": "ebooks/zweig/unsammlu",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die Welt von Gestern",
+    "slug": "die-welt-von-gestern",
+    "basePath": "ebooks/zweig/weltgest",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Die Wunder des Lebens",
+    "slug": "die-wunder-des-lebens",
+    "basePath": "ebooks/zweig/wunderle",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Drei Dichter ihres Lebens",
+    "slug": "drei-dichter-ihres-lebens",
+    "basePath": "ebooks/zweig/3dichter",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Drei Meister",
+    "slug": "drei-meister",
+    "basePath": "ebooks/zweig/3meister",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Erstes Erlebnis",
+    "slug": "erstes-erlebnis",
+    "basePath": "ebooks/zweig/1erlebni",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Joseph Fouché",
+    "slug": "joseph-fouche",
+    "basePath": "ebooks/zweig/fouche",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Kurze Texte über historische Persönlichkeiten",
+    "slug": "kurze-texte-ueber-historische-persoenlichkeiten",
+    "basePath": "ebooks/zweig/histpers",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Kurze Texte über Musiker und bildenden Künster/Briefe an Frans Masereel",
+    "slug": "kurze-texte-ueber-musiker-und-bildenden-kuenster-briefe-an-frans-masereel",
+    "basePath": "ebooks/zweig/kunessay",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Legenden",
+    "slug": "legenden",
+    "basePath": "ebooks/zweig/legenden",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Magellan",
+    "slug": "magellan",
+    "basePath": "ebooks/zweig/magellan",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Marceline Desbordes-Valmore",
+    "slug": "marceline-desbordes-valmore",
+    "basePath": "ebooks/zweig/desborde",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Maria Stuart",
+    "slug": "maria-stuart",
+    "basePath": "ebooks/zweig/mariastu",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Marie Antoinette",
+    "slug": "marie-antoinette",
+    "basePath": "ebooks/zweig/marieant",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Neun Novellen und Erzählungen",
+    "slug": "neun-novellen-und-erzaehlungen",
+    "basePath": "ebooks/zweig/nove-erz",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Rausch der Verwandlung",
+    "slug": "rausch-der-verwandlung",
+    "basePath": "ebooks/zweig/rausch",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Reise nach Rußland",
+    "slug": "reise-nach-russland",
+    "basePath": "ebooks/zweig/reisruss",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Reisen in Europa",
+    "slug": "reisen-in-europa",
+    "basePath": "ebooks/zweig/reiseuro",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Rezensionen 1902 - 1939",
+    "slug": "rezensionen-1902-1939",
+    "basePath": "ebooks/zweig/rezensio",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Romain Rolland",
+    "slug": "romain-rolland",
+    "basePath": "ebooks/zweig/rolland",
+    "lang": "de",
+    "formats": [
+      "epub",
+      "mobi",
+      "azw3",
+      "pdf",
+      "html"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Schachnovelle",
+    "slug": "schachnovelle",
+    "basePath": "ebooks/zweig/schachno",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Silberne Saiten",
+    "slug": "silberne-saiten",
+    "basePath": "ebooks/zweig/silbsait",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Sternstunden der Menschheit",
+    "slug": "sternstunden-der-menschheit",
+    "basePath": "ebooks/zweig/sternstu",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Triumph und Tragik des Erasmus von Rotterdam",
+    "slug": "triumph-und-tragik-des-erasmus-von-rotterdam",
+    "basePath": "ebooks/zweig/erasmus",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Ungeduld des Herzens",
+    "slug": "ungeduld-des-herzens",
+    "basePath": "ebooks/zweig/ungeduld",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Vergessene Träume",
+    "slug": "vergessene-traeume",
+    "basePath": "ebooks/zweig/vertraeu",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Vierundzwanzig Stunden aus dem Leben einer Frau",
+    "slug": "vierundzwanzig-stunden-aus-dem-leben-einer-frau",
+    "basePath": "ebooks/zweig/24std",
+    "lang": "de",
+    "formats": [
+      "azw3",
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Stefan Zweig",
+    "title": "Über Schriftsteller",
+    "slug": "ueber-schriftsteller",
+    "basePath": "ebooks/zweig/schrifts",
     "lang": "de",
     "formats": [
       "azw3",
