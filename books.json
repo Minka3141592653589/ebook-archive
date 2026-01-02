@@ -2352,1053 +2352,1305 @@
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Abenteuer des Kapitän Hatteras - Erster Band",
-    "slug": "abenteuer-des-kapitaen-hatteras-erster-band",
-    "basePath": "ebooks/verne/hattera1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Achilleis",
+    "slug": "achilleis",
+    "basePath": "ebooks/goethe/achill1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Abenteuer des Kapitän Hatteras - Zweiter Band",
-    "slug": "abenteuer-des-kapitaen-hatteras-zweiter-band",
-    "basePath": "ebooks/verne/hattera2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Bassompierres Geschichte von der schönen Krämerin",
+    "slug": "bassompierres-geschichte-von-der-schoenen-kraemerin",
+    "basePath": "ebooks/goethe/bassompi",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Abenteuer von drei Russen und drei Engländern in Süd-Afrika",
-    "slug": "abenteuer-von-drei-russen-und-drei-englaendern-in-sued-afrika",
-    "basePath": "ebooks/verne/3russen",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Beiträge zu den Frankfurter Gelehrten Anzeigen vom Jahr 1772",
+    "slug": "beitraege-zu-den-frankfurter-gelehrten-anzeigen-vom-jahr-1772",
+    "basePath": "ebooks/goethe/frankgel",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Alles in Ordnung",
-    "slug": "alles-in-ordnung",
-    "basePath": "ebooks/verne/ordnung",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Belagerung von Mainz",
+    "slug": "belagerung-von-mainz",
+    "basePath": "ebooks/goethe/belageru",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Archipel in Flammen",
-    "slug": "der-archipel-in-flammen",
-    "basePath": "ebooks/verne/archipel",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Biographische und autobiographische Schriften 1792 - 1797",
+    "slug": "biographische-und-autobiographische-schriften-1792-1797",
+    "basePath": "ebooks/goethe/bio92-97",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Dampfhaus - 1. Band",
-    "slug": "das-dampfhaus-1-band",
-    "basePath": "ebooks/verne/dampfha1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Aus einer Reise in die Schweiz über Frankfurt, Heidelberg, Stuttgart und Tübingen im Jahre 1797",
+    "slug": "aus-einer-reise-in-die-schweiz-ueber-frankfurt-heidelberg-stuttgart-und-tuebingen-im-jahre-1797",
+    "basePath": "ebooks/goethe/screis97",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Dampfhaus - 2. Band",
-    "slug": "das-dampfhaus-2-band",
-    "basePath": "ebooks/verne/dampfha2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefe von Goethe an Johanna Fahlmer",
+    "slug": "briefe-von-goethe-an-johanna-fahlmer",
+    "basePath": "ebooks/goethe/br-fahlm",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Land der Pelze - 1. Band",
-    "slug": "das-land-der-pelze-1-band",
-    "basePath": "ebooks/verne/dasland1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefe an Charlotte Stein, Band 2",
+    "slug": "briefe-an-charlotte-stein-band-2",
+    "basePath": "ebooks/goethe/brstein2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Land der Pelze - 2. Band",
-    "slug": "das-land-der-pelze-2-band",
-    "basePath": "ebooks/verne/dasland2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefwechsel mit seiner Frau. Band II",
+    "slug": "briefwechsel-mit-seiner-frau-band-ii",
+    "basePath": "ebooks/goethe/br-frau2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Karpathenschloß",
-    "slug": "das-karpathenschloss",
-    "basePath": "ebooks/verne/karpathe",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefe an Charlotte Stein, Band 1",
+    "slug": "briefe-an-charlotte-stein-band-1",
+    "basePath": "ebooks/goethe/brstein1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Testament eines Excentrischen. Erster Band",
-    "slug": "das-testament-eines-excentrischen-erster-band",
-    "basePath": "ebooks/verne/excentr1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefwechsel zwischen Schiller und Goethe, Band 1",
+    "slug": "briefwechsel-zwischen-schiller-und-goethe-band-1",
+    "basePath": "ebooks/goethe/brschil1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Das Testament eines Excentrischen. Zweiter Band",
-    "slug": "das-testament-eines-excentrischen-zweiter-band",
-    "basePath": "ebooks/verne/excentr2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefwechsel zwischen Schiller und Goethe, Band 2",
+    "slug": "briefwechsel-zwischen-schiller-und-goethe-band-2",
+    "basePath": "ebooks/goethe/brschil2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Courier des Czaar - Erster Band",
-    "slug": "der-courier-des-czaar-erster-band",
-    "basePath": "ebooks/verne/courier1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Clavigo",
+    "slug": "clavigo",
+    "basePath": "ebooks/goethe/clavigo",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Courier des Czaar - Zweiter Band",
-    "slug": "der-courier-des-czaar-zweiter-band",
-    "basePath": "ebooks/verne/courier2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Concerto Dramatico",
+    "slug": "concerto-dramatico",
+    "basePath": "ebooks/goethe/concdram",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Chancellor",
-    "slug": "der-chancellor",
-    "basePath": "ebooks/verne/chancell",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Briefwechsel mit seiner Frau. Band I",
+    "slug": "briefwechsel-mit-seiner-frau-band-i",
+    "basePath": "ebooks/goethe/br-frau1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Einbruch des Meeres",
-    "slug": "der-einbruch-des-meeres",
-    "basePath": "ebooks/verne/einbruch",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Claudine von Villa Bella",
+    "slug": "claudine-von-villa-bella",
+    "basePath": "ebooks/goethe/claudin2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der grüne Strahl",
-    "slug": "der-gruene-strahl",
-    "basePath": "ebooks/verne/gruestra",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Das Märchen",
+    "slug": "das-maerchen",
+    "basePath": "ebooks/goethe/maerchen",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Leuchtturm am Ende der Welt",
-    "slug": "der-leuchtturm-am-ende-der-welt",
-    "basePath": "ebooks/verne/leuchttu",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Mann von funfzig Jahren",
+    "slug": "der-mann-von-funfzig-jahren",
+    "basePath": "ebooks/goethe/funfzig",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Südstern",
-    "slug": "der-suedstern",
-    "basePath": "ebooks/verne/suedster",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der neue Paris",
+    "slug": "der-neue-paris",
+    "basePath": "ebooks/goethe/neuparis",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Triumph des 19. Jahrhunderts. Erster Band.",
-    "slug": "der-triumph-des-19-jahrhunderts-erster-band",
-    "basePath": "ebooks/verne/19jahr-1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Bürgergeneral",
+    "slug": "der-buergergeneral",
+    "basePath": "ebooks/goethe/bgeneral",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Der Triumph des 19. Jahrhunderts. Zweiter Band.",
-    "slug": "der-triumph-des-19-jahrhunderts-zweiter-band",
-    "basePath": "ebooks/verne/19jahr-2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Prokurator",
+    "slug": "der-prokurator",
+    "basePath": "ebooks/goethe/prokurat",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die 500 Millionen der Begum",
-    "slug": "die-500-millionen-der-begum",
-    "basePath": "ebooks/verne/begum",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Groß-Cophta",
+    "slug": "der-gross-cophta",
+    "basePath": "ebooks/goethe/cophta",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Drangsale eines Chinesen in China",
-    "slug": "die-drangsale-eines-chinesen-in-china",
-    "basePath": "ebooks/verne/chinese",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Triumph der Empfindsamkeit",
+    "slug": "der-triumph-der-empfindsamkeit",
+    "basePath": "ebooks/goethe/empfinds",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Entdeckung der Erde. Erster Band",
-    "slug": "die-entdeckung-der-erde-erster-band",
-    "basePath": "ebooks/verne/enterde1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Versuch die Metamorphose der Pflanzen zu erklären",
+    "slug": "der-versuch-die-metamorphose-der-pflanzen-zu-erklaeren",
+    "basePath": "ebooks/goethe/metamorp",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Entdeckung der Erde. Zweiter Band",
-    "slug": "die-entdeckung-der-erde-zweiter-band",
-    "basePath": "ebooks/verne/enterde2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Der Zauberflöte zweiter Teil",
+    "slug": "der-zauberfloete-zweiter-teil",
+    "basePath": "ebooks/goethe/zauber2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Leiden eines Chinesen in China",
-    "slug": "die-leiden-eines-chinesen-in-china",
-    "basePath": "ebooks/verne/chinese1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Aufgeregten",
+    "slug": "die-aufgeregten",
+    "basePath": "ebooks/goethe/aufgereg",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Eissphinx. Erster Band",
-    "slug": "die-eissphinx-erster-band",
-    "basePath": "ebooks/verne/eisspin1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Geschwister",
+    "slug": "die-geschwister",
+    "basePath": "ebooks/goethe/geschwis",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Eissphinx. Zweiter Band",
-    "slug": "die-eissphinx-zweiter-band",
-    "basePath": "ebooks/verne/eisspin2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Geschichte von Mignons Eltern",
+    "slug": "die-geschichte-von-mignons-eltern",
+    "basePath": "ebooks/goethe/migeltrn",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die geheimnißvolle Insel. Erster Theil. Die Schiffbrüchigen des Luftmeers",
-    "slug": "die-geheimnissvolle-insel-erster-theil-die-schiffbruechigen-des-luftmeers",
-    "basePath": "ebooks/verne/insel",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die guten Frauen, als Gegenbilder der bösen Weiber, auf den Kupfern des diesjährigen Damenalmanachs",
+    "slug": "die-guten-frauen-als-gegenbilder-der-boesen-weiber-auf-den-kupfern-des-diesjaehrigen-damenalmanachs",
+    "basePath": "ebooks/goethe/gutfrau",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die geheimnißvolle Insel. Zweiter Theil. Der Verlassene",
-    "slug": "die-geheimnissvolle-insel-zweiter-theil-der-verlassene",
-    "basePath": "ebooks/verne/insel2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Mitschuldigen",
+    "slug": "die-mitschuldigen",
+    "basePath": "ebooks/goethe/mitschul",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die geheimnißvolle Insel. Dritter Theil. Das Geheimniß",
-    "slug": "die-geheimnissvolle-insel-dritter-theil-das-geheimniss",
-    "basePath": "ebooks/verne/insel3",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Laune des Verliebten",
+    "slug": "die-laune-des-verliebten",
+    "basePath": "ebooks/goethe/laune",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die großen Seefahrer des 18. Jahrhunderts - 1. Band",
-    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-1-band",
-    "basePath": "ebooks/verne/seefahr",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Sängerin Antonelli",
+    "slug": "die-saengerin-antonelli",
+    "basePath": "ebooks/goethe/antonell",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die großen Seefahrer des 18. Jahrhunderts - 2. Band",
-    "slug": "die-grossen-seefahrer-des-18-jahrhunderts-2-band",
-    "basePath": "ebooks/verne/seefahr2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die natürliche Tochter",
+    "slug": "die-natuerliche-tochter",
+    "basePath": "ebooks/goethe/nattocht",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Jangada. Zweiter Band",
-    "slug": "die-jangada-zweiter-band",
-    "basePath": "ebooks/verne/jangada2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die wunderlichen Nachbarskinder",
+    "slug": "die-wunderlichen-nachbarskinder",
+    "basePath": "ebooks/goethe/nachbars",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Jangada. Erster Band",
-    "slug": "die-jangada-erster-band",
-    "basePath": "ebooks/verne/jangada1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Dichtung und Wahrheit. Dritter und vierter Teil",
+    "slug": "dichtung-und-wahrheit-dritter-und-vierter-teil",
+    "basePath": "ebooks/goethe/dichwah2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Jagd nach dem Meteore",
-    "slug": "die-jagd-nach-dem-meteore",
-    "basePath": "ebooks/verne/meteor",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die pilgernde Törin",
+    "slug": "die-pilgernde-toerin",
+    "basePath": "ebooks/goethe/toerin",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Kinder des Kapitän Grant, Band 1",
-    "slug": "die-kinder-des-kapitaen-grant-band-1",
-    "basePath": "ebooks/verne/grant1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die gefährliche Wette",
+    "slug": "die-gefaehrliche-wette",
+    "basePath": "ebooks/goethe/gefwette",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Kinder des Kapitän Grant, Band 3",
-    "slug": "die-kinder-des-kapitaen-grant-band-3",
-    "basePath": "ebooks/verne/grant3",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Wahlverwandtschaften",
+    "slug": "die-wahlverwandtschaften",
+    "basePath": "ebooks/goethe/wahlverw",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Kinder des Kapitän Grant, Band 2",
-    "slug": "die-kinder-des-kapitaen-grant-band-2",
-    "basePath": "ebooks/verne/grant2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die neue Melusine",
+    "slug": "die-neue-melusine",
+    "basePath": "ebooks/goethe/melusine",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Meuterer von der »Bounty«",
-    "slug": "die-meuterer-von-der-bounty",
-    "basePath": "ebooks/verne/bounty",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Vögel",
+    "slug": "die-voegel",
+    "basePath": "ebooks/goethe/voegel",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Schiffbrüchigen des »Jonathan«. Erster Band",
-    "slug": "die-schiffbruechigen-des-jonathan-erster-band",
-    "basePath": "ebooks/verne/jonatha1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Die Leiden des jungen Werther",
+    "slug": "die-leiden-des-jungen-werther",
+    "basePath": "ebooks/goethe/werther",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Schiffbrüchigen des »Jonathan«. Dritter Band",
-    "slug": "die-schiffbruechigen-des-jonathan-dritter-band",
-    "basePath": "ebooks/verne/jonatha3",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Dichtung und Wahrheit. Erster und zweiter Teil",
+    "slug": "dichtung-und-wahrheit-erster-und-zweiter-teil",
+    "basePath": "ebooks/goethe/dichwah1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Schiffbrüchigen des »Jonathan«. Zweiter Band",
-    "slug": "die-schiffbruechigen-des-jonathan-zweiter-band",
-    "basePath": "ebooks/verne/jonatha2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Dramatische Fragmente: Anekdote zu den Freuden des jungen Werthers / Erwin und Elmire / Hanswursts Hochzeit",
+    "slug": "dramatische-fragmente-anekdote-zu-den-freuden-des-jungen-werthers-erwin-und-elmire-hanswursts-hochzeit",
+    "basePath": "ebooks/goethe/3drafrag",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Ein Drama in den Lüften",
-    "slug": "ein-drama-in-den-lueften",
-    "basePath": "ebooks/verne/dramluef",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Erwin und Elmire. Zweite Fassung",
+    "slug": "erwin-und-elmire-zweite-fassung",
+    "basePath": "ebooks/goethe/erwin-2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Ein Drama in Mexico",
-    "slug": "ein-drama-in-mexico",
-    "basePath": "ebooks/verne/drammexi",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Eine Gespenstergeschichte",
+    "slug": "eine-gespenstergeschichte",
+    "basePath": "ebooks/goethe/gespenst",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Die Schule der Robinsons",
-    "slug": "die-schule-der-robinsons",
-    "basePath": "ebooks/verne/robinson",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Ein Fastnachtsspiel",
+    "slug": "ein-fastnachtsspiel",
+    "basePath": "ebooks/goethe/fassnach",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Reise nach dem Mittelpunkt der Erde",
-    "slug": "reise-nach-dem-mittelpunkt-der-erde",
-    "basePath": "ebooks/verne/mittelpu",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Estherspiel - Zweite Fassung",
+    "slug": "estherspiel-zweite-fassung",
+    "basePath": "ebooks/goethe/esther2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Eine Idee des Doctor Ox",
-    "slug": "eine-idee-des-doctor-ox",
-    "basePath": "ebooks/verne/doctorox",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Egmont",
+    "slug": "egmont",
+    "basePath": "ebooks/goethe/egmont",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Ein Lotterie-Los",
-    "slug": "ein-lotterie-los",
-    "basePath": "ebooks/verne/lotterie",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Für Lavater verfasste Erklärung",
+    "slug": "fuer-lavater-verfasste-erklaerung",
+    "basePath": "ebooks/goethe/fuerlava",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Eine Überwinterung im Eise",
-    "slug": "eine-ueberwinterung-im-eise",
-    "basePath": "ebooks/verne/ueberwin",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Ferdinands Schuld und Wandlung",
+    "slug": "ferdinands-schuld-und-wandlung",
+    "basePath": "ebooks/goethe/ferdinan",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Eine schwimmende Stadt. Die Blockadebrecher",
-    "slug": "eine-schwimmende-stadt-die-blockadebrecher",
-    "basePath": "ebooks/verne/schwstad",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Götter, Helden und Wieland",
+    "slug": "goetter-helden-und-wieland",
+    "basePath": "ebooks/goethe/wieland",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Herr der Welt",
-    "slug": "herr-der-welt",
-    "basePath": "ebooks/verne/herrwelt",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Faust I",
+    "slug": "faust-i",
+    "basePath": "ebooks/goethe/faust1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Fünf Wochen im Ballon",
-    "slug": "fuenf-wochen-im-ballon",
-    "basePath": "ebooks/verne/ballon",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Faust II",
+    "slug": "faust-ii",
+    "basePath": "ebooks/goethe/faust2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Kein Durcheinander",
-    "slug": "kein-durcheinander",
-    "basePath": "ebooks/verne/durchein",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Helena im Mittelalter",
+    "slug": "helena-im-mittelalter",
+    "basePath": "ebooks/goethe/helena",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Keraban der Starrkopf. Erster Band",
-    "slug": "keraban-der-starrkopf-erster-band",
-    "basePath": "ebooks/verne/keraban1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Götz von Berlichingen",
+    "slug": "goetz-von-berlichingen",
+    "basePath": "ebooks/goethe/berlich",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Keraban der Starrkopf. Zweiter Band",
-    "slug": "keraban-der-starrkopf-zweiter-band",
-    "basePath": "ebooks/verne/keraban2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Hermann und Dorothea",
+    "slug": "hermann-und-dorothea",
+    "basePath": "ebooks/goethe/hermann",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Mathias Sandorf. Erster Band",
-    "slug": "mathias-sandorf-erster-band",
-    "basePath": "ebooks/verne/sandorf1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Geschichte Gottfriedens von Berlichingen mit der eisernen Hand",
+    "slug": "geschichte-gottfriedens-von-berlichingen-mit-der-eisernen-hand",
+    "basePath": "ebooks/goethe/gottfrie",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
-      "azw3",
-      "pdf",
-      "html"
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Mathias Sandorf. Dritter Band",
-    "slug": "mathias-sandorf-dritter-band",
-    "basePath": "ebooks/verne/sandorf3",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Iphigenie auf Tauris",
+    "slug": "iphigenie-auf-tauris",
+    "basePath": "ebooks/goethe/iphigeni",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Jahrmarktsfest zu Plundersweilern",
+    "slug": "jahrmarktsfest-zu-plundersweilern",
+    "basePath": "ebooks/goethe/jahrplu1",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Mathias Sandorf. Zweiter Band",
-    "slug": "mathias-sandorf-zweiter-band",
-    "basePath": "ebooks/verne/sandorf2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Kleinere Novellen",
+    "slug": "kleinere-novellen",
+    "basePath": "ebooks/goethe/klnovell",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Kurze religiöse Schriften",
+    "slug": "kurze-religioese-schriften",
+    "basePath": "ebooks/goethe/religioe",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Martin Paz",
-    "slug": "martin-paz",
-    "basePath": "ebooks/verne/martinpa",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Juristische Schriften 1771 – 1775",
+    "slug": "juristische-schriften-1771-1775",
+    "basePath": "ebooks/goethe/jur-schr",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Mahomet",
+    "slug": "mahomet",
+    "basePath": "ebooks/goethe/mahomet",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Meister Zacharius",
-    "slug": "meister-zacharius",
-    "basePath": "ebooks/verne/zachariu",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Kurze Schriften zu Kunst und Literatur 1792 – 1797",
+    "slug": "kurze-schriften-zu-kunst-und-literatur-1792-1797",
+    "basePath": "ebooks/goethe/ks92-97",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Mahomet. Trauerspiel in fünf Aufzügen, nach Voltaire",
+    "slug": "mahomet-trauerspiel-in-fuenf-aufzuegen-nach-voltaire",
+    "basePath": "ebooks/goethe/mahovolt",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Meister Antifer's wunderbare Abenteuer. Erster Band",
-    "slug": "meister-antifer-s-wunderbare-abenteuer-erster-band",
-    "basePath": "ebooks/verne/antifer1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Naturwissenschaftliche Schriften. Optik und Farbenlehre, Physik",
+    "slug": "naturwissenschaftliche-schriften-optik-und-farbenlehre-physik",
+    "basePath": "ebooks/goethe/naturwi1",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Italienische Reise",
+    "slug": "italienische-reise",
+    "basePath": "ebooks/goethe/italien",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Meister Antifer's wunderbare Abenteuer. Zweiter Band",
-    "slug": "meister-antifer-s-wunderbare-abenteuer-zweiter-band",
-    "basePath": "ebooks/verne/antifer2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Nicht zu weit",
+    "slug": "nicht-zu-weit",
+    "basePath": "ebooks/goethe/nzuweit",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Palaeophron und Neoterpe",
+    "slug": "palaeophron-und-neoterpe",
+    "basePath": "ebooks/goethe/palaeoph",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Mistreß Branican. Erster Theil",
-    "slug": "mistress-branican-erster-theil",
-    "basePath": "ebooks/verne/mistres1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Novelle",
+    "slug": "novelle",
+    "basePath": "ebooks/goethe/novelle",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Naturwissenschaftliche Schriften 1792 - 1797",
+    "slug": "naturwissenschaftliche-schriften-1792-1797",
+    "basePath": "ebooks/goethe/nat92-97",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Nord gegen Süd. Erster Band",
-    "slug": "nord-gegen-sued-erster-band",
-    "basePath": "ebooks/verne/nordsue1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Prometheus",
+    "slug": "prometheus",
+    "basePath": "ebooks/goethe/fragment",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Proserpina",
+    "slug": "proserpina",
+    "basePath": "ebooks/goethe/proserpi",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Mistreß Branican. Zweiter Theil",
-    "slug": "mistress-branican-zweiter-theil",
-    "basePath": "ebooks/verne/mistres2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Reineke Fuchs",
+    "slug": "reineke-fuchs",
+    "basePath": "ebooks/goethe/reineke",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Römische Elegien",
+    "slug": "roemische-elegien",
+    "basePath": "ebooks/goethe/elegien",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Nord gegen Süd. Zweiter Band",
-    "slug": "nord-gegen-sued-zweiter-band",
-    "basePath": "ebooks/verne/nordsue2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Sankt Joseph der Zweite",
+    "slug": "sankt-joseph-der-zweite",
+    "basePath": "ebooks/goethe/joseph2",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Sankt-Rochus-Fest zu Bingen",
+    "slug": "sankt-rochus-fest-zu-bingen",
+    "basePath": "ebooks/goethe/strochus",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Reise durch die Sonnenwelt, Band 1",
-    "slug": "reise-durch-die-sonnenwelt-band-1",
-    "basePath": "ebooks/verne/sonnenw1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Satyros",
+    "slug": "satyros",
+    "basePath": "ebooks/goethe/satyros",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Sonette",
+    "slug": "sonette",
+    "basePath": "ebooks/goethe/sonette",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Reise um den Mond",
-    "slug": "reise-um-den-mond",
-    "basePath": "ebooks/verne/ummond",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Stella",
+    "slug": "stella",
+    "basePath": "ebooks/goethe/stella",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Tancred. Trauerspiel in fünf Aufzügen, nach Voltaire",
+    "slug": "tancred-trauerspiel-in-fuenf-aufzuegen-nach-voltaire",
+    "basePath": "ebooks/goethe/tancred",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Reise durch die Sonnenwelt, Band 2",
-    "slug": "reise-durch-die-sonnenwelt-band-2",
-    "basePath": "ebooks/verne/sonnenw2",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Propyläen und Umkreis",
+    "slug": "propylaeen-und-umkreis",
+    "basePath": "ebooks/goethe/propylae",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Torquato Tasso",
+    "slug": "torquato-tasso",
+    "basePath": "ebooks/goethe/tasso",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Reise um die Erde in 80 Tagen",
-    "slug": "reise-um-die-erde-in-80-tagen",
-    "basePath": "ebooks/verne/80tage",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Wer ist der Verräter?",
+    "slug": "wer-ist-der-verraeter",
+    "basePath": "ebooks/goethe/verraetr",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Gedichtsammlung",
+    "slug": "gedichtsammlung",
+    "basePath": "ebooks/goethe/gedichte",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Robur der Sieger",
-    "slug": "robur-der-sieger",
-    "basePath": "ebooks/verne/robur",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Unterhaltungen deutscher Ausgewanderten",
+    "slug": "unterhaltungen-deutscher-ausgewanderten",
+    "basePath": "ebooks/goethe/dtauswan",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Gedichte. Ausgabe letzter Hand",
+    "slug": "gedichte-ausgabe-letzter-hand",
+    "basePath": "ebooks/goethe/gediletz",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Von der Erde zum Mond",
-    "slug": "von-der-erde-zum-mond",
-    "basePath": "ebooks/verne/erdemond",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "West-östlicher Divan",
+    "slug": "west-oestlicher-divan",
+    "basePath": "ebooks/goethe/divan",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Xenien",
+    "slug": "xenien",
+    "basePath": "ebooks/goethe/xenien",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Schwarz-Indien",
-    "slug": "schwarz-indien",
-    "basePath": "ebooks/verne/schwindi",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Zur deutschen Literatur. Rezensionen",
+    "slug": "zur-deutschen-literatur-rezensionen",
+    "basePath": "ebooks/goethe/deutlite",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Wilhelm Meisters theatralische Sendung",
+    "slug": "wilhelm-meisters-theatralische-sendung",
+    "basePath": "ebooks/goethe/meisthea",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   },
   {
-    "author": "Jules Verne",
-    "title": "Zwanzigtausend Meilen unter'm Meer - Erster Band",
-    "slug": "zwanzigtausend-meilen-unter-m-meer-erster-band",
-    "basePath": "ebooks/verne/zwanzig1",
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Wilhelm Meisters Wanderjahre",
+    "slug": "wilhelm-meisters-wanderjahre",
+    "basePath": "ebooks/goethe/meisterw",
     "lang": "de",
     "formats": [
+      "azw3",
       "epub",
+      "html",
       "mobi",
+      "pdf"
+    ]
+  },
+  {
+    "author": "Johann Wolfgang von Goethe",
+    "title": "Wilhelm Meisters Lehrjahre",
+    "slug": "wilhelm-meisters-lehrjahre",
+    "basePath": "ebooks/goethe/meisterl",
+    "lang": "de",
+    "formats": [
       "azw3",
-      "pdf",
-      "html"
+      "epub",
+      "html",
+      "mobi",
+      "pdf"
     ]
   }
 ]
