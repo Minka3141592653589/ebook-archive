@@ -5545,10 +5545,10 @@
   },
   {
     "author": "Mark Twain",
-    "title": "Short Stories (Englisch)",
-    "slug": "short-stories-englisch",
+    "title": "Short Stories",
+    "slug": "short-stories",
     "basePath": "ebooks/twain/engl-erz",
-    "lang": "de",
+    "lang": "en",
     "formats": [
       "epub",
       "mobi",
