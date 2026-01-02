@@ -1,2 +1,2 @@
-# ebook-archive
+# eBook Archive
 adding more eBooks daily
