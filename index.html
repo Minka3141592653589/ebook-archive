@@ -13,6 +13,18 @@
     <select id="language">
       <option value="all">All</option>
     </select>
+
+    <label for="author">Filter by author:</label>
+    <select id="author">
+      <option value="all">All</option>
+    </select>
+
+    <div id="stats">
+      <div id="count-total"></div>
+      <div id="count-filtered"></div>
+      <div id="count-languages"></div>
+      <div id="count-authors"></div>
+    </div>
   </div>
 
   <div>
@@ -29,6 +41,39 @@
     let filteredData = [];
     const list = document.getElementById("book-list");
     const languageSelect = document.getElementById("language");
+    const authorSelect = document.getElementById("author");
+    const countTotal = document.getElementById("count-total");
+    const countFiltered = document.getElementById("count-filtered");
+    const countLanguages = document.getElementById("count-languages");
+    const countAuthors = document.getElementById("count-authors");
+
+    function renderStats() {
+      countTotal.textContent = `Total eBooks: ${booksData.length}`;
+      countFiltered.textContent = `Shown eBooks: ${filteredData.length}`;
+
+      const langCounts = {};
+      for (const b of filteredData) {
+        langCounts[b.lang] = (langCounts[b.lang] || 0) + 1;
+      }
+
+      countLanguages.innerHTML =
+        "By language: " +
+        Object.entries(langCounts)
+          .map(([l, c]) => `${l.toUpperCase()} (${c})`)
+          .join(", ");
+
+      const authorCounts = {};
+      for (const b of filteredData) {
+        authorCounts[b.author] = (authorCounts[b.author] || 0) + 1;
+      }
+
+      countAuthors.innerHTML =
+        "By author: " +
+        Object.entries(authorCounts)
+          .sort((a, b) => a[0].localeCompare(b[0]))
+          .map(([a, c]) => `${a} (${c})`)
+          .join(", ");
+    }
 
     function renderBooks(data) {
       list.innerHTML = "";
@@ -40,17 +85,22 @@
         li.appendChild(a);
         list.appendChild(li);
       }
+      renderStats();
     }
 
     function updateFilteredData() {
       const selectedLang = languageSelect.value;
+      const selectedAuthor = authorSelect.value;
 
       filteredData = booksData.filter(book => {
-        return selectedLang === "all" || book.lang === selectedLang;
+        if (selectedLang !== "all" && book.lang !== selectedLang) return false;
+        if (selectedAuthor !== "all" && book.author !== selectedAuthor) return false;
+        return true;
       });
 
       renderBooks(filteredData);
     }
+
     fetch("books.json")
       .then(r => r.json())
       .then(books => {
@@ -62,10 +112,19 @@
           option.textContent = lang.toUpperCase();
           languageSelect.appendChild(option);
         }
+        const authors = [...new Set(books.map(b => b.author))].sort();
+        for (const author of authors) {
+        const option = document.createElement("option");
+        option.value = author;
+        option.textContent = author;
+        authorSelect.appendChild(option);
+        }
+
 
         updateFilteredData();
       });
     languageSelect.addEventListener("change", updateFilteredData);
+    authorSelect.addEventListener("change", updateFilteredData);
 
     document.getElementById("sort-title").addEventListener("click", () => {
       filteredData.sort((a, b) => a.title.localeCompare(b.title));
